@@ -1,0 +1,11 @@
+[package]
+name = "mapper"
+version = "0.5.0"
+authors = ["Alex Kazik <alex@kazik.de>"]
+edition = "2021"
+license = "MIT"
+
+[dependencies]
+serde = { version = "1.0.160", features = ["serde_derive"] }
+yew = { version = "0.20.0", features = ["csr"] }
+gloo = { version = "0.8" }
