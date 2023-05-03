@@ -7,6 +7,7 @@ use serde::{Deserialize, Serialize};
 pub enum Page {
     Setup,
     List,
+    Custom,
 }
 
 #[derive(Serialize, Deserialize)]
@@ -18,6 +19,7 @@ pub(crate) struct State {
     pub(crate) list_sort: Sort,
     pub(crate) list_the: bool,
     pub(crate) list_tile_set: bool,
+    pub(crate) custom_tile_sets: Vec<usize>,
 }
 
 impl Default for State {
@@ -29,6 +31,7 @@ impl Default for State {
             list_sort: Sort::Name,
             list_the: true,
             list_tile_set: false,
+            custom_tile_sets: vec![1, 2, 3],
         }
     }
 }

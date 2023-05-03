@@ -2,7 +2,7 @@
 #![warn(clippy::pedantic)]
 #![allow(clippy::module_name_repetitions)]
 
-use crate::game::{SetupId, TileId};
+use crate::game::{SetupId, Tile, TileId};
 use crate::list::Sort;
 use crate::state::Page;
 use gloo::storage::errors::StorageError;
@@ -10,6 +10,7 @@ use gloo::storage::{LocalStorage, Storage};
 use state::State;
 use yew::{html, Component, Context, Html};
 
+mod custom;
 mod game;
 mod list;
 mod setup;
@@ -18,6 +19,8 @@ mod state;
 pub(crate) enum Msg {
     Page(Page),
     Setup(SetupId),
+    CustomToggleTileSet(usize),
+    CustomSetup,
     ListToggleDiscovered(TileId),
     ListSetSort(Sort),
     ListToggleShowDiscovered,
@@ -70,6 +73,25 @@ impl Component for App {
                 self.state.list_the ^= true;
                 self.state.sort();
             }
+            Msg::CustomToggleTileSet(tile_set) => {
+                if let Some(index) = self
+                    .state
+                    .custom_tile_sets
+                    .iter()
+                    .position(|ts| *ts == tile_set)
+                {
+                    self.state.custom_tile_sets.swap_remove(index);
+                } else {
+                    self.state.custom_tile_sets.push(tile_set);
+                }
+            }
+            Msg::CustomSetup => {
+                self.state.list_tiles = Tile::generate(&self.state.custom_tile_sets, &[]);
+                self.state.sort();
+                if !self.state.list_tiles.is_empty() {
+                    self.state.page = Page::List;
+                }
+            }
         }
         let _: Result<(), StorageError> = LocalStorage::set(Self::STORAGE_KEY, &self.state);
         true
@@ -79,6 +101,7 @@ impl Component for App {
         let inner = match self.state.page {
             Page::Setup => self.view_setup(ctx),
             Page::List => self.view_list(ctx),
+            Page::Custom => self.view_custom(ctx),
         };
         html! {
             <div class="container" style="text-align: center">

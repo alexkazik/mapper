@@ -15,6 +15,11 @@ impl App {
                     </li>
                 }
                 { for Setup::all().map(|(i,s)| Self::view_setup_line(ctx, i, s)) }
+                <li class="list-group-item">
+                    <button class="btn btn-primary" onclick={ ctx.link().callback(move |_| Msg::Page(Page::Custom)) }>
+                        { "Custom" }
+                    </button>
+                </li>
             </ul>
         }
     }
