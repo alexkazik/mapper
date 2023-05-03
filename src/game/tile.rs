@@ -1,4 +1,4 @@
-use crate::game::data::{TileType, TILES, TILE_COLOR};
+use crate::game::data::{TileType, NUM_TILES, TILES, TILE_COLOR};
 
 #[derive(PartialEq, Eq, Clone, Copy, serde::Deserialize, serde::Serialize)]
 #[serde(transparent)]
@@ -8,6 +8,11 @@ pub(crate) struct TileId(pub(in crate::game) usize);
 impl TileId {
     pub(crate) fn get(&self) -> &Tile {
         &TILES[self.0]
+    }
+
+    #[inline]
+    pub(crate) fn is_valid(self) -> bool {
+        self.0 < NUM_TILES
     }
 }
 

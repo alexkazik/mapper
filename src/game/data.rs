@@ -51,7 +51,8 @@ impl Display for TileType {
     }
 }
 
-pub(super) const TILES: &[Tile] = &[
+pub(super) const NUM_TILES: usize = 47;
+pub(super) const TILES: [Tile; NUM_TILES] = [
     //  0
     t(1, 0, "Cogshead Works", TileType::ResourceOre),
     t(1, 0, "Melian Forest", TileType::ResourceWood),

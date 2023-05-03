@@ -2,7 +2,7 @@ use crate::game::{TileId, TileType};
 use crate::list::Sort;
 use serde::{Deserialize, Serialize};
 
-#[derive(Serialize, Deserialize)]
+#[derive(PartialEq, Eq, Serialize, Deserialize)]
 #[serde(rename_all = "snake_case")]
 pub enum Page {
     Setup,
@@ -46,5 +46,18 @@ impl State {
                 tile.name(self.list_the).0,
             )
         });
+    }
+
+    pub(crate) fn validate(mut self) -> Self {
+        // check if the list is valid
+        if !self.list_tiles.iter().all(|(i, _)| i.is_valid()) {
+            self.list_tiles = Vec::new();
+        }
+        // check if a list is possible
+        if self.page == Page::List && self.list_tiles.is_empty() {
+            self.page = Page::Setup;
+        }
+
+        self
     }
 }

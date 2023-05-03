@@ -39,7 +39,9 @@ impl Component for App {
 
     fn create(_ctx: &Context<Self>) -> Self {
         Self {
-            state: LocalStorage::get(Self::STORAGE_KEY).unwrap_or_default(),
+            state: LocalStorage::get::<State>(Self::STORAGE_KEY)
+                .unwrap_or_default()
+                .validate(),
         }
     }
 
