@@ -1,4 +1,4 @@
-use crate::game::data::SETUPS;
+use crate::game::generated::{Setup, SETUPS};
 use crate::game::tile::{Tile, TileId};
 use std::iter::{Enumerate, Map};
 use std::slice::Iter;
@@ -11,12 +11,6 @@ impl SetupId {
     pub(crate) fn get(&self) -> &Setup {
         &SETUPS[self.0]
     }
-}
-
-pub(crate) struct Setup {
-    pub(crate) name: &'static str,
-    pub(in crate::game) tile_sets: &'static [usize],
-    pub(in crate::game) discovered: &'static [usize],
 }
 
 type SetupIter = Map<Enumerate<Iter<'static, Setup>>, fn((usize, &Setup)) -> (SetupId, &Setup)>;

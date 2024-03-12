@@ -66,6 +66,13 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "cfa8873f51c92e232f9bac4065cddef41b714152812bfc5f7672ba16d6ef8cd9"
 
 [[package]]
+name = "build"
+version = "0.0.0"
+dependencies = [
+ "databake",
+]
+
+[[package]]
 name = "bumpalo"
 version = "3.15.4"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -106,6 +113,29 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "ec182b0ca2f35d8fc196cf3404988fd8b8c739a4d270ff118a398feb0cbec1ca"
 dependencies = [
  "unicode-segmentation",
+]
+
+[[package]]
+name = "databake"
+version = "0.1.7"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "82175d72e69414ceafbe2b49686794d3a8bed846e0d50267355f83ea8fdd953a"
+dependencies = [
+ "databake-derive",
+ "proc-macro2",
+ "quote",
+]
+
+[[package]]
+name = "databake-derive"
+version = "0.1.7"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "377af281d8f23663862a7c84623bc5dcf7f8c44b13c7496a590bdc157f941a43"
+dependencies = [
+ "proc-macro2",
+ "quote",
+ "syn 2.0.52",
+ "synstructure",
 ]
 
 [[package]]
@@ -656,6 +686,9 @@ checksum = "90ed8c1e510134f979dbc4f070f87d4313098b704861a105fe34231c70a3901c"
 name = "mapper"
 version = "0.6.0"
 dependencies = [
+ "anyhow",
+ "build",
+ "databake",
  "gloo 0.10.0",
  "serde",
  "yew",
@@ -941,6 +974,17 @@ dependencies = [
  "proc-macro2",
  "quote",
  "unicode-ident",
+]
+
+[[package]]
+name = "synstructure"
+version = "0.13.1"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "c8af7666ab7b6390ab78131fb5b0fce11d6b7a6951602017c35fa82800708971"
+dependencies = [
+ "proc-macro2",
+ "quote",
+ "syn 2.0.52",
 ]
 
 [[package]]

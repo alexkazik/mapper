@@ -2,7 +2,6 @@
 //
 // He gave permission to use it as long as all uses are clearly marked as unofficial.
 
-use crate::game::setup::Setup;
 use crate::game::tile::{t, Tile};
 use yew::virtual_dom::{VNode, VText};
 use yew::{AttrValue, Html, ToHtml};
@@ -116,101 +115,3 @@ pub(super) const TILES: [Tile; NUM_TILES] = [
 ];
 
 pub(super) const TILE_COLOR_CLASS: [&str; 2] = ["tile_color_green", "tile_color_red"];
-
-pub(super) const SETUPS: &[Setup] = &[
-    Setup {
-        name: "Story 1",
-        tile_sets: &[1, 2, 3],
-        discovered: &[13, 3],
-    },
-    Setup {
-        name: "Story 2",
-        tile_sets: &[1, 4, 5],
-        discovered: &[13, 1],
-    },
-    Setup {
-        name: "Story 3",
-        tile_sets: &[1, 6],
-        discovered: &[7],
-    },
-    Setup {
-        name: "Story 4",
-        tile_sets: &[1, 3, 7],
-        discovered: &[10, 18, 2],
-    },
-    Setup {
-        name: "Story 5",
-        tile_sets: &[1, 5, 8],
-        discovered: &[5, 21],
-    },
-    Setup {
-        name: "Story 6",
-        tile_sets: &[1, 5, 9, 10, 11],
-        discovered: &[35, 37, 8, 33, 38, 21],
-    },
-    Setup {
-        name: "Story 7",
-        tile_sets: &[1, 10, 11, 12, 13, 16],
-        discovered: &[46, 7, 34, 35],
-    },
-    Setup {
-        name: "Scenario: Carry Our Prayers (Normal)",
-        tile_sets: &[1, 2, 7, 12],
-        discovered: &[2, 40, 4, 30],
-    },
-    Setup {
-        name: "Scenario: Desecrated (Normal)",
-        tile_sets: &[1, 2, 3],
-        discovered: &[5],
-    },
-    Setup {
-        name: "Scenario: Memory Stone (Normal)",
-        tile_sets: &[1, 2, 4, 12],
-        discovered: &[7, 11, 8, 0],
-    },
-    Setup {
-        name: "Scenario: Children of Lesser Men (Hard)",
-        tile_sets: &[1, 2, 5],
-        discovered: &[2, 23, 9, 8],
-    },
-    Setup {
-        name: "Scenario: Lonely Nights (Hard)",
-        tile_sets: &[1, 2, 5],
-        discovered: &[23, 3, 8, 1],
-    },
-    Setup {
-        name: "Scenario: Sworn (Hard)",
-        tile_sets: &[1, 8, 9, 13],
-        discovered: &[31, 42, 1, 3],
-    },
-    Setup {
-        name: "Scenario: The Honour of Thieves (Hard)",
-        tile_sets: &[1, 6],
-        discovered: &[9, 24, 28, 26, 8],
-    },
-    Setup {
-        name: "Scenario: A New Home (Very hard)",
-        tile_sets: &[1, 6],
-        discovered: &[3, 11, 26, 24, 1],
-    },
-    Setup {
-        name: "Scenario: Hidden in Plain Sigh (Very hard)",
-        tile_sets: &[1, 9, 11],
-        discovered: &[33, 39, 38, 37],
-    },
-    Setup {
-        name: "Scenario: Rumours (Very hard)",
-        tile_sets: &[1, 6],
-        discovered: &[27, 26, 24, 9],
-    },
-    Setup {
-        name: "Scenario: The Creations of Vesh (Very hard)",
-        tile_sets: &[1, 2, 14, 15],
-        discovered: &[14, 3, 7, 11, 2],
-    },
-    Setup {
-        name: "Scenario: The Scorched (Very hard)",
-        tile_sets: &[1, 3, 10, 11, 14],
-        discovered: &[2, 39, 16, 43, 9, 6, 3],
-    },
-];

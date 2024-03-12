@@ -1,0 +1,9 @@
+[package]
+name = "build"
+version = "0.0.0"
+authors = ["Alex Kazik <alex@kazik.de>"]
+edition = "2021"
+license = "MIT"
+
+[dependencies]
+databake = { version = "0.1", features = ["derive"] }

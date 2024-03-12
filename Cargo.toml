@@ -10,3 +10,14 @@ gloo = { version = "0.10" }
 serde = { version = "1.0.160", features = ["serde_derive"] }
 yew = { version = "0.21", features = ["csr"] }
 yew-bootstrap = { version = "0.10", default-features = false }
+
+[build-dependencies]
+build = { path = "build" }
+anyhow = "1"
+databake = "0.1"
+
+[workspace]
+members = [
+    ".",
+    "build",
+]
