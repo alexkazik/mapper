@@ -2,6 +2,18 @@
 
 Use the tool [here](https://alexkazik.github.io/mapper/).
 
+## Translation
+
+The english version is OCR'd from the game, with permission from the author.
+There may be bugs in it, please report/fix when possible.
+
+The german translation is automatically generated from the english one.
+
+If you'd like to have another language please let me know.
+
+You can contact me via [email](mailto:mapper+6527@tx0.eu)
+or [BGG](https://boardgamegeek.com/geekmail/compose?touser=txnull).
+
 ## Requirements
 
 - https://rustup.rs/
@@ -15,7 +27,6 @@ Run this application with the trunk development server:
 ```bash
 trunk serve --open
 ```
-
 
 ## Building
 
