@@ -1,4 +1,4 @@
-use crate::game::data::{TileType, NUM_TILES, TILES, TILE_COLOR};
+use crate::game::data::{TileType, NUM_TILES, TILES, TILE_COLOR_CLASS};
 
 #[derive(PartialEq, Eq, Clone, Copy, serde::Deserialize, serde::Serialize)]
 #[serde(transparent)]
@@ -26,8 +26,8 @@ pub(crate) struct Tile {
 }
 
 impl Tile {
-    pub(crate) fn color(&self) -> &'static str {
-        TILE_COLOR[self.color]
+    pub(crate) fn color_class(&self) -> &'static str {
+        TILE_COLOR_CLASS[self.color]
     }
 
     pub(crate) fn generate(tile_sets: &[usize], discovered: &[usize]) -> Vec<(TileId, bool)> {

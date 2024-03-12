@@ -74,7 +74,7 @@ impl App {
         };
         let name = tile.name(self.state.list_the);
         html! {
-            <tr bgcolor={ tile.color() } style={ if del {"color: #666"} else {""} } >
+            <tr class={ tile.color_class() } style={ if del {"color: #666"} else {""} } >
                 <td align="center"> if self.state.list_tile_set { { tile.tile_set.to_string() } } </td>
                 <td>{ name.0 }{ name.1 }</td>
                 <td>{ tile.tile_type }</td>

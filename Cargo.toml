@@ -9,3 +9,4 @@ license = "MIT"
 gloo = { version = "0.10" }
 serde = { version = "1.0.160", features = ["serde_derive"] }
 yew = { version = "0.21", features = ["csr"] }
+yew-bootstrap = { version = "0.10", default-features = false }

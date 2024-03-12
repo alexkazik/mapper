@@ -115,7 +115,7 @@ pub(super) const TILES: [Tile; NUM_TILES] = [
     t(16, 1, "Cloud Keep", TileType::OccupiedCity),
 ];
 
-pub(super) const TILE_COLOR: [&str; 2] = ["#819f53", "#b6653f"];
+pub(super) const TILE_COLOR_CLASS: [&str; 2] = ["tile_color_green", "tile_color_red"];
 
 pub(super) const SETUPS: &[Setup] = &[
     Setup {
