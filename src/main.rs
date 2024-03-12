@@ -4,10 +4,9 @@
 
 use crate::game::{SetupId, Tile, TileId};
 use crate::list::Sort;
-use crate::state::Page;
+use crate::state::{Page, State};
 use gloo::storage::errors::StorageError;
 use gloo::storage::{LocalStorage, Storage};
-use state::State;
 use yew::{html, Component, Context, Html};
 
 mod custom;
