@@ -6,6 +6,6 @@ edition = "2021"
 license = "MIT"
 
 [dependencies]
-gloo = { version = "0.8" }
+gloo = { version = "0.10" }
 serde = { version = "1.0.160", features = ["serde_derive"] }
-yew = { version = "0.20.0", features = ["csr"] }
+yew = { version = "0.21", features = ["csr"] }

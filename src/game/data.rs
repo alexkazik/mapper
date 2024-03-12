@@ -4,7 +4,8 @@
 
 use crate::game::setup::Setup;
 use crate::game::tile::{t, Tile};
-use std::fmt::{Display, Formatter};
+use yew::virtual_dom::{VNode, VText};
+use yew::{AttrValue, Html, ToHtml};
 
 #[derive(Clone, Copy, PartialEq, Eq, PartialOrd, Ord)]
 pub(crate) enum TileType {
@@ -27,27 +28,29 @@ pub(crate) enum TileType {
     ResourceWood,
 }
 
-impl Display for TileType {
-    fn fmt(&self, f: &mut Formatter<'_>) -> std::fmt::Result {
-        match self {
-            TileType::BldgFarm => f.write_str("Building (Farm)"),
-            TileType::BldgShrine => f.write_str("Building (Shrine)"),
-            TileType::BldgStronghold => f.write_str("Building (Stronghold)"),
-            TileType::BuffAttack => f.write_str("Buff (Attack)"),
-            TileType::BuffHeal => f.write_str("Buff (Heal)"),
-            TileType::BuffMove => f.write_str("Buff (Move)"),
-            TileType::BuffRange => f.write_str("Buff (Range)"),
-            TileType::Creature => f.write_str("Creature"),
-            TileType::OccupiedCity => f.write_str("Occupied City"),
-            TileType::Quest => f.write_str("Quest"),
-            TileType::Shop => f.write_str("Shop"),
-            TileType::Stable => f.write_str("Stable"),
-            TileType::ResourceFish => f.write_str("Resource (Fish)"),
-            TileType::ResourceLinen => f.write_str("Resource (Linen)"),
-            TileType::ResourceOre => f.write_str("Resource (Ore)"),
-            TileType::ResourceWood => f.write_str("Resource (Wood)"),
-            TileType::Trap => f.write_str("Trap"),
-        }
+impl ToHtml for TileType {
+    fn to_html(&self) -> Html {
+        VNode::VText(VText {
+            text: AttrValue::Static(match self {
+                TileType::BldgFarm => "Building (Farm)",
+                TileType::BldgShrine => "Building (Shrine)",
+                TileType::BldgStronghold => "Building (Stronghold)",
+                TileType::BuffAttack => "Buff (Attack)",
+                TileType::BuffHeal => "Buff (Heal)",
+                TileType::BuffMove => "Buff (Move)",
+                TileType::BuffRange => "Buff (Range)",
+                TileType::Creature => "Creature",
+                TileType::OccupiedCity => "Occupied City",
+                TileType::Quest => "Quest",
+                TileType::Shop => "Shop",
+                TileType::Stable => "Stable",
+                TileType::ResourceFish => "Resource (Fish)",
+                TileType::ResourceLinen => "Resource (Linen)",
+                TileType::ResourceOre => "Resource (Ore)",
+                TileType::ResourceWood => "Resource (Wood)",
+                TileType::Trap => "Trap",
+            }),
+        })
     }
 }
 

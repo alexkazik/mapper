@@ -17,9 +17,11 @@ impl TileId {
 }
 
 pub(crate) struct Tile {
+    #[allow(clippy::struct_field_names)]
     pub(crate) tile_set: usize,
     pub(crate) color: usize,
     pub(crate) name: &'static str,
+    #[allow(clippy::struct_field_names)]
     pub(crate) tile_type: TileType,
 }
 
