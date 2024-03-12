@@ -2,7 +2,7 @@
 #![warn(clippy::pedantic)]
 #![allow(clippy::module_name_repetitions)]
 
-use crate::game::{SetupId, Tile, TileId};
+use crate::game::{Language, SetupId, Tile, TileId};
 use crate::list::Sort;
 use crate::state::{Page, State};
 use gloo::storage::errors::StorageError;
@@ -14,6 +14,7 @@ mod game;
 mod list;
 mod setup;
 mod state;
+mod story;
 
 pub(crate) enum Msg {
     Page(Page),
@@ -25,6 +26,8 @@ pub(crate) enum Msg {
     ListToggleShowDiscovered,
     ListToggleTileSet,
     ListToggleThe,
+    Chapter(usize),
+    Language(Language),
 }
 
 pub(crate) struct App {
@@ -54,6 +57,8 @@ impl Component for App {
                 self.state.list_tiles = id.get().tiles();
                 self.state.sort();
                 self.state.page = Page::List;
+                self.state.setup_id = Some(id);
+                self.state.story_chapter = 0;
             }
             Msg::ListToggleDiscovered(id) => {
                 for (i, d) in &mut self.state.list_tiles {
@@ -90,6 +95,13 @@ impl Component for App {
                 if !self.state.list_tiles.is_empty() {
                     self.state.page = Page::List;
                 }
+                self.state.setup_id = None;
+            }
+            Msg::Chapter(chapter) => {
+                self.state.story_chapter = chapter;
+            }
+            Msg::Language(language) => {
+                self.state.language = language;
             }
         }
         let _: Result<(), StorageError> = LocalStorage::set(Self::STORAGE_KEY, &self.state);
@@ -101,6 +113,7 @@ impl Component for App {
             Page::Setup => self.view_setup(ctx),
             Page::List => self.view_list(ctx),
             Page::Custom => self.view_custom(ctx),
+            Page::Story => self.view_story(ctx),
         };
         html! {
             <div class="container" style="text-align: center">

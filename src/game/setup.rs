@@ -1,10 +1,12 @@
 use crate::game::generated::{Setup, SETUPS};
 use crate::game::tile::{Tile, TileId};
+use serde::{Deserialize, Serialize};
 use std::iter::{Enumerate, Map};
 use std::slice::Iter;
 
-#[derive(Clone, Copy)]
+#[derive(Clone, Copy, Serialize, Deserialize)]
 #[repr(transparent)]
+#[serde(transparent)]
 pub(crate) struct SetupId(usize);
 
 impl SetupId {

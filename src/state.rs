@@ -1,4 +1,4 @@
-use crate::game::{TileId, TileType};
+use crate::game::{Language, SetupId, TileId, TileType};
 use crate::list::Sort;
 use serde::{Deserialize, Serialize};
 
@@ -8,6 +8,7 @@ pub enum Page {
     Setup,
     List,
     Custom,
+    Story,
 }
 
 #[derive(Serialize, Deserialize)]
@@ -20,6 +21,9 @@ pub(crate) struct State {
     pub(crate) list_the: bool,
     pub(crate) list_tile_set: bool,
     pub(crate) custom_tile_sets: Vec<usize>,
+    pub(crate) setup_id: Option<SetupId>,
+    pub(crate) story_chapter: usize,
+    pub(crate) language: Language,
 }
 
 impl Default for State {
@@ -32,6 +36,9 @@ impl Default for State {
             list_the: true,
             list_tile_set: false,
             custom_tile_sets: vec![1, 2, 3],
+            setup_id: None,
+            story_chapter: 0,
+            language: Language::English,
         }
     }
 }

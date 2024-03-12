@@ -1,0 +1,1451 @@
+$ Copyright Frank West
+$
+$ He gave permission to use it as long as all uses are clearly marked as unofficial.
+
+# Story 1
+
+## Kapitel 1: Eichenholz
+
+In der Ratskammer von City of Kings
+trifft eine dringende Nachricht ein.
+
+Im Stadtrat herrscht rege Betriebsamkeit, und die niedrigen
+Steinbänke sind voll mit den Anführern aller Völker, die
+der Earthshaker hierher gerufen hat. Sie fühlen sich unwohl
+in dieser riesigen, perfekt runden Steinhalle. Keiner hat je
+einen Fuß hierher gesetzt, und die Geometrie hat etwas zu
+Präzises, zu Symmetrisches an sich, das sterblichen Augen
+entgeht. Aber dieser Ort wurde weder von sterblichen Händen
+erbaut, noch beherbergt er normale Wesen.
+
+Du wurdest hierher gerufen, weil die Wolkenburg gefallen
+ist; eine Truppe von Trollen auf fliegenden Monstern hat die
+geflügelten Vadoraner vertrieben. Überall in den Ländern
+sind Orks, Trolle und Schlimmeres aus ihren dunklen Ecken
+aufgetaucht. Calamis der Erste hat den Anführern der freien
+Völker die Tore der verschlossenen Stadt geöffnet, und es
+wurden Späher ausgesandt. Wir beginnen im Eichenwald, wo
+jemand berichtet hat, dass er das nächste feindliche Lager
+gesehen hat.
+
+## Kapitel 2: Orkjagd
+
+In Oak Wood herrscht eine unheimliche
+Stille.
+
+In den Ruinen einer Lichtung liegt ein menschlicher Späher
+in gesprenkeltem Grau, umgeben von den Leichen von Erzen und
+abgebrochenen Bäumen. Der Körper der Kundschafterin ist
+mit den Verletzungen bedeckt, die sie während ihres
+verzweifelten Kampfes erlitten hat. "Freunde", keucht sie.
+"Ich verfolgte diese Bande von Blutbrief-Erzen quer durch
+das Mar, als sie mich gefangen nahmen und hierher brachten."
+
+"Blutbriefe?", stöhnst du. Seit ihrer wilden Ankunft in der
+Welt vor 50 Jahren hatte es noch kein Ork geschafft, den
+großen Fluss Mar zu überqueren. Das bedeutete, dass alle
+Zeitlosen Reiche in Gefahr waren.
+
+"Ja. Selbst ihre eigenen Stämme scheinen diese Blutbriefe
+zu hassen." Der Späher hustet vor Schmerz. "Sie wurden von
+einer Hekia Bloodmother angeführt, einer
+Ork-Häuptlingstochter, die das Zeichen einer schwarzen Hand
+trug, und sie sagte schadenfroh, dass noch viele weitere auf
+dem Weg hierher seien...
+
+## Kapitel 3: Unterbrechen und zerstören
+
+Du bringst deine grausigen Funde zurück
+in die Ratskammer: einen orkischen
+Schild, ein zerrissenes Kriegsbanner,
+ein blutiges Beil.
+
+"Das ist das Symbol des Trolls, der uns unsere Heimat
+genommen hat", spuckt einer der Vadora-Ratsmitglieder. "Ich
+werde es nie vergessen." Sie tritt gegen das zerrissene
+Banner mit dem grotesken, hauerartigen Gesicht.
+
+"Und das, ich weiß, aber das kann nicht sein..." Aus
+Calamis' Brust ertönt ein Geräusch wie mahlende
+Mühlsteine, als der Golem den zerstörten Schild mit dem
+Siegel einer schwarzen Hand begutachtet. "Die Hand von Vesh
+steht für Vesh Darkhand. Vesh war einst ein menschlicher
+Zauberer - wir besiegten ihn vor vielen Monden und trieben
+ihn in die bodenlosen Cluwash-Tiefen hinab. Aber er ist zu
+etwas anderem geworden, und - Fallen möge mir verzeihen -
+ich glaube, dass es meine Essenz war, die ihm geholfen hat,
+wieder aufzustehen..." Calamis spürt immer noch die alte
+Wunde, wo der Zauberer experimentiert und seinen
+Mineralkörper zertrümmert hat. "Vesh Darkhand muss hinter
+dem Krieg stecken: Wir müssen den Aufenthaltsort seiner
+Kriegsbanden finden!"
+
+## Kapitel 4: Hekia
+
+Ein Bote kommt mit Nachrichten über
+Hekia bei dir an.
+
+Überall, wo du nach Zeichen von Vesh suchst, findest du
+sie. Es gibt schwarze Hände, die heimlich an Türen
+geschmiert oder in stehende Bäume geritzt wurden. Aber das
+Hauptlager der Dunkelhand entzieht sich dir immer noch. Der
+Horizont ist jetzt von den schwarzen Rauchschwaden der
+randalierenden Orks gesäumt. Die Vesh Darkhand hat die
+freien Völker der Welt überrascht, und überall beginnt es
+zu brennen. Aber hier, jetzt, hast du die Chance, die
+Zerstörung zumindest zu verlangsamen.
+
+"Meister", keucht der neu eingetroffene Bote, "Hekia
+Bloodmother hat sich um den Turm des Nordwinds verschanzt!"
+Es wird ein harter Kampf werden, aber alle Helden haben
+schon Schlimmeres erlebt. Calamis hat sich schließlich mit
+der Hilfe von Brutius aus den Cluwash Depths freigekämpft.
+Der menschliche Prinz ist jetzt so vernarbt, dass jeder
+Atemzug schmerzt, und Calamis ist nur noch ein Schatten des
+Wesens, das er einst war.
+
+## Heroische Herausforderung: Das Pergament
+
+Im Turm des Nordwinds findest du nach
+dem Kampf gegen Hekia und ihre
+Blutbriefe eine Schriftrolle in dunkler,
+orkischer Schrift.
+
+"Was ist das für ein Dreck?" Die vadorianische
+Hohepriesterin T'Lorra will das Pergament auf keinen Fall
+anfassen. Es fühlt sich fettig, fast weich an und erinnert
+an Haut... "Ich kann es nicht lesen." Der Zwerg Thralir will
+es ebenfalls nicht anfassen. Am Ende scheint es, als hätte
+nur Calamis den starken Magen - und die Fähigkeiten -, um
+es überhaupt lesen zu können.
+
+"Es heißt, dass es weitere feindliche Lager in Azure Rise
+gibt und Hekia sie beliefern wollte", murmelt Calamis. Du
+weißt, was du tun musst - finde sie alle und mach ihnen ein
+Ende.
+
+## Legendäre Herausforderung: Gegenangriff!
+
+Nach deiner letzten Schlacht verbrennst
+du die Toten und packst deine
+Ausrüstung wieder ein, wenn...
+
+"Meine Damen! Sirs!?" Eine Stimme keucht und schreit und
+stolpert durch das Gestrüpp. Es ist eine Elfe, die
+erschrocken und auf müden Beinen humpelt. "Den Wurzeln und
+Ästen sei Dank, dass ich euch gefunden habe", keucht der
+Elf und bricht auf dem Boden zusammen. "Es ist der
+Eichenwald. Während du weg warst, wurde er wieder
+angegriffen, aber diesmal waren es mehr von ihnen - viel
+mehr! Meine Älteste schickte mich, weil sie wusste, dass
+ich der schnellste Läufer bin, aber ich fürchte, dass ich
+zu spät komme. Du musst zurück zum Eichenwald reisen, und
+zwar schnell. Wir haben dort nur eine Handvoll Waldläufer
+und Baumpfleger, um eine ganze Horde abzuwehren!"
+
+# Story 2
+
+## Kapitel 1: Suche nach Zuflucht
+
+Nach der Schlacht am Turm des Nordwinds.
+
+Du hast zwar Hekia und ihre Kriegsbande besiegt, aber in
+ihrem Kielwasser sind die Menschen, Zwerge, Vadoraner und
+Elfen, die sie in Ketten gehalten hatten.
+
+"Wir müssen sie zurückbringen", sagt einer der
+menschlichen Kapitäne.
+
+"Aber wohin, Mensch?" Eine Stimme hallt wie das Knacken von
+Zweigen wider, als eine Gestalt vom Schlachtfeld tritt.
+Niemand wusste, wann dieses anmutige Wesen in den Kampf
+eintrat, aber sie staunten über ihre Tüchtigkeit mit ihren
+gepaarten Langschwertern. Sie lässt ihre Kapuze
+zurückfallen und ein schockierendes Gesicht kommt zum
+Vorschein: ein elfisches Gesicht mit blasser, sterbender
+Haut und Augen, die vor Fieber brennen.
+
+"Ich bin Vyliria. Einst die Grüne Dame, jetzt die Graue
+Königin der Elfen. Unsere Heiligen Haine brennen - und ohne
+sie wird das Volk der Elfen sterben, wie du an meinem
+Gesicht sehen kannst. Aber es gibt ja noch den Melianischen
+Wald. Hilf mir, mein Volk zu den Heilern dort zu bringen.
+
+## Kapitel 2: Melian
+
+Im Wald von Melian.
+
+Der Wald von Melien ist auch im modernen Zeitalter der
+Unruhen noch ein seltsamer, feenhafter Ort. Es gibt viele
+Geschichten über die dunklen Dinge, die diesen Flecken
+übrig gebliebenen alten Wald bewohnen. Aber die Elfen
+scheinen keine Angst zu haben, wenn auch schwach. Königin
+Vyliria weiß, dass ihr Volk hier eine Eichenkapelle hat, in
+der einige der Schwestern von Aranwyn noch immer ihr
+Handwerk ausüben. "Wir können die Flüchtlinge zur Heilung
+aufnehmen, aber sie brauchen eine Unterkunft, Vorräte,
+Feuerholz und Schutz vor den Marodeuren."
+
+## Kapitel 3: Haus Greenacre
+
+Im Wald von Melian wird deine Arbeit
+durch ferne Trommelgeräusche und
+Schreie gestört...
+
+Als du den Waldrand erreichst, siehst du einen Staubschleier
+über dem Flachland hängen. Etwas Großes und Schnelles
+wütet dort unten durch die Dörfer, Wälder und Felder und
+hinterlässt ein geschwärztes und aufgewühltes Ödland.
+Der Nebel der Schlacht hängt immer noch schwer und verdeckt
+die Kreatur auf ihrem Weg, aber du hörst den Klang ihrer
+donnernden Trommeln. Was könnte es sein? Was auch immer es
+ist, es bewegt sich direkt auf die Menash Greenlands zu, die
+natürliche Heimat des Hauses Greenacre der Menschen. Dort
+produzieren sie die stärksten Leinen, Banner und Gewebe auf
+ihren grünen Feldern und züchten die schnellsten Pferde
+diesseits des Himmels. "Wenn die Grünländer zerstört
+werden, verlieren wir unsere Vorräte an Verbänden, Decken
+und Kavallerie-Ställen. Das können wir nicht zulassen",
+stellst du fest und machst dich auf den Weg.
+
+## Kapitel 4: Gug und seine Herde
+
+In den Menash Greenlands.
+
+"Danke, dass du die Ernte gerettet hast", sagt Faldan Reeve,
+der für die Grünländer zuständige Verwalter. "Ich habe
+sie bereits in die Stadt der Könige geschickt." Der
+menschliche Beamte sieht nachdenklich aus und lässt seinen
+Blick über den Horizont schweifen. Das Geräusch des
+herannahenden Donners ist ohrenbetäubend, und der Rauch und
+Staub kocht mit unglaublicher Geschwindigkeit auf seine
+Ländereien zu. "Macht euch bereit", sagt der Mensch knapp,
+als erst eine Gestalt aus dem Staubsturm auftaucht, dann
+eine weitere dahinter.
+
+"Grimnir. Aber was machen die denn hier?" Faldan zischt.
+"Die Grimnir leben in riesigen Herden in den südlichen
+Ebenen. Was hat sie so hoch und so weit getrieben?"
+
+Es waren keine Trommeln, die du hörtest, sondern die
+monströsen Fäuste der angreifenden Kreaturen, die auf dich
+zustürmten!
+
+## Heroische Herausforderung: Die Arbeit eines Tages
+
+Die Spur der Zerstörung des Grimnir
+führt bis fast zum letzten Zaun vor der
+Leinenfarm, wo du stehst.
+
+Neben dir sieht Steward Reeve erleichtert, aber auch genervt
+aus. "Du hast es geschafft. Du hast die Bestien
+aufgehalten", beglückwünscht er dich und gibt dir etwas
+von dem seltenen Menash Mead ab. "Aber das ist nur der
+Anfang unserer Probleme. Ich habe die meisten meiner
+Arbeiter weggeschickt, als der Angriff kam, und die Hälfte
+der anderen ist geflohen. Es gibt noch viel mehr gutes,
+starkes Leinen aus den Mühlen dort - und ich bin sicher,
+die Stadt der Könige wird es brauchen."
+
+## Legendäre Herausforderung: Stoppen!
+
+In den Menash Greenlands.
+
+Ein knirschendes Geräusch schallt über die Felder und
+Arbeitsgebäude der Menash Greenlands. Als du nachsiehst,
+stellst du fest, dass die größte Mühle bei dem Angriff
+beschädigt wurde und ihre Balken gebrochen sind. "Wenn wir
+sie wieder zum Laufen bringen können, sind wir im
+Geschäft!" sagt Steward Reeve. "Es gibt noch viel mehr
+Leinen auf den Feldern zu holen.
+
+# Story 3
+
+## Kapitel 1: Der gute zwergische Stein
+
+In den vorderen Arkaden der Stadt der
+Könige, vor den Stadttoren.
+
+Die Luft ist heiß und trocken. Der erste Konvoi mit
+Flüchtlingen, Leinen und Holz ist zu den eilig ernannten
+Quartiergebern geschickt worden. Die Mauern der Stadt sind
+jetzt von Vylirias elbischen Bogenschützen gesäumt,
+während unten Verteidigungspläne ausgearbeitet werden.
+Jetzt, da der Wolkenfried gefallen ist, ist die Stadt von
+zwei Hauptversorgungsrouten aus dem Süden abgeschnitten.
+"Aber hier", sagt Brutius der Gebrochene (wie immer der
+Taktiker), "könnten wir die alte Festung von Steward Rancor
+und eine weitere am Tor des Herolds wieder aufbauen. Damit
+hätten wir eine vorgeschobene Verteidigung in den
+Außenlanden. Wir werden gutes, starkes Zwergengestein aus
+den Minen benötigen. Wir sollten einen Abgesandten zu
+König Thralirs Leuten in den Granithallen schicken. Wir
+könnten gegen Erz handeln und sehen, ob die Hand von Vesh
+auch in die Tiefen unter den Reichen reicht."
+
+## Kapitel 2: Die Festung von Steward Rancor
+
+In den Granithallen, wo immer noch
+schwarzer Rauch aus Teilen der
+zerstörten Mine aufsteigt.
+
+"Es waren die Trolle auf fliegenden Kreaturen", erzählen
+dir die Donnerbart-Zwerge, die diesen Ort hielten, müde,
+wobei ihnen der Ruß noch in den Bärten steckt. "Früher
+haben wir uns über die maulwurfsartigen Tiefentäler lustig
+gemacht, aber wenn Thralir Hillfeet und seine Sippe nicht
+gewesen wären, wären wir jetzt alle Sklaven dieses Hoodrah
+Kelraz." Obwohl die Deep-Delvers meist geblendet von der
+Sonne kämpfen, sind sie wild und hielten die unteren
+Hallen, bis der Troll War-Captain und seine fliegenden Makar
+sie zurücktrieben. Aber sie nahmen den größten Teil des
+Erzes mit. Die Zwerge stimmen Brutus' Plan zu - dass sie
+helfen werden, die Festung von Steward Rancor wieder
+aufzubauen und danach in die Stadt der Könige
+zurückzukehren. "Ich wollte sowieso schon seit Generationen
+das Gestein der Stadt der Könige in die Finger bekommen",
+sagt der zwergische Ingenieur erfreut.
+
+## Kapitel 3: Kein gewöhnlicher Sturm
+
+In der (neuen) Festung von Steward
+Rancor!
+
+Der Bau ist gut vorangekommen, und die Hälfte der Zwerge
+wird bleiben, um die Festung zu verteidigen. Der Weg zum Tor
+des Verkünders ist lang und tückisch, selbst wenn man die
+Karren und Wagen voller Steine und Ausrüstung nicht
+mitschleppen muss! In der ersten Nacht des langen Marsches
+kommt ein unheimlicher Wind aus dem Norden auf und bringt
+einen plötzlichen Frost mit sich, der Bärte knickt und
+Wasserflaschen gefrieren lässt. "Das war kein gewöhnlicher
+Sturm", sagt einer der zwergischen Ingenieure misstrauisch.
+"Ich habe seltsame, krächzende Stimmen im Wind gehört",
+sagt ein Zwerg. "Und heute Morgen waren unten am Fluss
+Spuren zu sehen, die aussahen wie große, gesponnene
+Klauen", sagt ein anderer. Aber genug der Gruselgeschichten;
+das Tor des Herolds liegt weiter vorne.
+
+## Kapitel 4: Die kalte Hand von Vesh
+
+An der Stätte des Herald's Gate, wo
+nicht alles gut ist...
+
+Der übernatürliche Winter hat deine Schritte auf dem
+ganzen Weg zum Herald's Gate verfolgt. An manchen Morgen war
+die Straße mit Eis bedeckt, aber am Nachmittag wurde das
+Land wieder zum heißen Sommer, der es sein sollte. Das
+Gebäude wurde von heftigen Winden heimgesucht, die viele
+kleine Unfälle verursachten. "Aber es ist stark",
+verkünden die Zwerge. "Teile dieses Ortes gehörten den
+Vadoranern, und sie sagen, man kann bis zum Gipfel der Welt
+sehen." In dieser Nacht zieht ein höllischer Sturm aus dem
+Norden auf, und mit ihm ertönen heulende Schlachtrufe und
+klagende Klagen. Am Morgen ist mit dem Frost ein feindliches
+Lager aufgetaucht, und vor dem Tor steht eine schwerfällige
+Kreatur mit schwarzen und weißen Federn und starrt auf das
+neue Gebäude vor ihr. "Ich bin Häuptling Ouri Rotfeder von
+den Okol, und ihr müsst diesen Ort der Hand von Vesh
+überlassen!"
+
+## Heroische Herausforderung: Hinter unserem Rücken
+
+An der Stätte des Herald's Gate, nach
+dem Kampf mit Häuptling Ouri Rotfeder.
+
+Mit wehenden Fahnen nähert sich ein menschlicher Bote auf
+einem müden Pferd. Sie sind weit geritten, aber sie haben
+keine Zeit, anzuhalten und sich auszuruhen. "Der Feind hat
+die Festung von Steward Rancor zurückerobert!", verkündet
+der Bote. "Sie müssen darauf gewartet haben, dass ihr
+abzieht, denn eine große Streitmacht ist eingetroffen und
+hat damit begonnen, all die gute Arbeit, die ihr dort
+geleistet habt, zunichte zu machen."
+
+## Legendäre Herausforderung: Gefangen!
+
+Auf dem Weg zurück in die Stadt der
+Könige durchbricht ein schrilles Horn
+die Stille.
+
+Diesmal wirst du nicht von einem Boten oder einem Späher
+unterbrochen, sondern von einer fliegenden Vadora, die mit
+einem silbernen Horn durch den Himmel auf dich zustürmt.
+"Freunde, die Wachen, die ihr am Tor des Herolds
+zurückgelassen habt, wurden gefangen genommen! Ein Trupp
+von Veshs Kreaturen kam an, umzingelte die Festung und
+belagerte sie, während ihr weg wart, und jetzt haben sie
+sich unter die Mauern gegraben! Bitte rettet sie!"
+
+# Story 4
+
+## Kapitel 1: Krähenfeder spioniert
+
+Zurück in der Stadt der Könige.
+
+"Halten die Festungen?", erkundigt sich Lord Justus aus dem
+Hause Greenacre, ein junger menschlicher Lord (auch wenn das
+ein Hauch von Elf sein könnte).
+
+"Das sind sie", knurrt Calamis, das inoffizielle Oberhaupt
+des Rates. "Aber das ist nicht genug."
+
+Vesh hat es geschafft, die fernen Völker zu bestechen, zu
+versklaven oder zu bedrohen, damit sie sich seinem Kreuzzug
+gegen die Stadt anschließen. Jede Kreatur, die die
+Zeitlosen Reiche vergessen hatten, scheint aus dem Mythos
+zurückzukehren: der Okol, der Grimnir und jetzt...
+Sesharra?" ruft Calamis dem letzten überlebenden
+Katzenmenschen zu. "Du bist aus den südlichen Wüsten des
+Drauston geflohen, nachdem Hoodrah Kelraz' fliegende Makar
+dein Rudel gejagt haben. Sie hat als eine meiner
+Kundschafterinnen gearbeitet und weiß etwas, das uns helfen
+kann."
+
+"Ich kenne einen Weg in die Wolkenburg", zischt Sakura.
+"Oder besser gesagt, ich kenne jemanden, der ihn kennt. Sie
+werden einen Monat lang jeden Mond auf dem reisenden
+Krähenfedermarkt sein."
+
+## Kapitel 2: Smaragdmondfisch
+
+Eine große Lichtung in einem Wald, auf
+der eine bunte Ansammlung von Zelten
+steht.
+
+Der Krähenfedermarkt ist der einzige Handelsplatz des als
+Schwarzfedern bekannten Diebesnetzwerks und wechselt mit
+jedem Mond seinen Standort. Selbst während des Krieges
+floriert dieser Markt mit Menschen aller Rassen, die
+heimlich Waren aus zweifelhaftem Besitz kaufen oder
+verkaufen. Dort. Dort vorne ist der Kontakt, den Sesharra
+während ihrer geheimen Anstellung bei Calamis geknüpft
+hatte - eine Gestalt, die in graue Bänder und Bandagen
+gehüllt ist und eine Augenmaske trägt, die ihren
+eingesägten Schnabel nicht verbergen kann.
+
+"Ich bin Vatu, und ja, ich bin einer der Verfluchten. Nicht
+deine netten heiligen Vadoraner. Ich diene immer noch den
+alten Geistern. Zorniges Feuer und wütender Wind." Das
+Wesen gackert und krächzt vor sich hin, offensichtlich
+wütend. "Ihr wollt also etwas wissen, ja? Ich kann dir
+einen Weg in den Wolkenfried sagen - aber das kostet! Drei
+Fische aus den nahegelegenen Seen und ich werde darüber
+nachdenken!"
+
+## Kapitel 3: Uralte Wege
+
+Der Krähenfedermarkt.
+
+Wenn du zurückkommst, hat sich auf dem Markt viel
+verändert. Stände und Verkäufer sind verschwunden, haben
+ihr Geschäft aufgegeben; gefangen oder tot, das weiß
+niemand. Der Markt wird von anderen, schmutzigen Dingen
+überschwemmt - orkischen Armbändern und trollischen
+Fresssäcken. "Dreck", krächzt Vatu, obwohl er sich über
+den Fisch freut. "Na ja. Wer hätte das gedacht? Gut
+schmeckender Fisch ist heutzutage schwer zu bekommen, und
+das alles für meinen Topf heute Abend!" Wieder ein
+schrilles Lachen. "Bevor die Herolde den Wolkenfried
+übernahmen, war er ein Tempel für die alten Geister des
+Windes. Wir Verfluchten hatten Tunnel, die uns von diesem
+Tempel weit weg führten. Geheime Wege für die Geheimnisse,
+die wir trugen. Einer dieser Tunnel befindet sich in der
+Heulenden Heide."
+
+## Kapitel 4: Beute
+
+In der Heulenden Heide.
+
+Der Kampf mit dem Feind war hart und wurde durch die
+stürmischen Winde, die über das kratzige, dornige
+Heideland fegen, noch schlimmer. Es ist ein unbarmherziger
+Ort auf dem Gipfel der Welt, und du kannst verstehen, warum
+die verfluchten Vadoraner hier die Luftgeister verehrten.
+Aber kaum hast du deinen Atem gesammelt, wird die Luft von
+heulendem Gebrüll und gackerndem Gelächter zerteilt.
+"Narren!" Gestalten strömen auf die Heide, Gestalten mit
+den Körpern von Bären - aber sie sind ein schrecklicher
+Spott für die anmutige Sakura. Diese mutierten
+Bärenmenschen zucken und bewegen sich seltsam, sie sind
+weder an ihre Körper noch an die Metallwaffen gewöhnt, die
+in ihr Fleisch eingepflanzt sind. "Wir sind viele", zischt
+ihre Rudelführerin, ein bärenähnliches Weibchen. "Wir
+sind Jamba. Ich bin Königin Musural. Ihr seid Beute." Du
+kannst eine so offene Seite nicht gegen so viele halten.
+Deine einzige Hoffnung ist jetzt, dich freizukämpfen.
+
+## Heldenhafte Herausforderung: Umzingelt!
+
+Du versuchst, aus der Heulenden Heide zu
+fliehen, aber die Mächte von Vesh haben
+eine Überraschung für dich...
+
+Die Kämpfe sind verzweifelt und der ständig heulende Wind
+gibt keine Ruhe. Gerade als du glaubst, dass du dir den Weg
+frei gekämpft hast, kracht es im Gebüsch und weitere
+Kreaturen, die sich zuvor im Unterholz versteckt hatten,
+stürzen sich auf dich...
+
+## Legendäre Herausforderung: Die letzte Hürde
+
+Um dich herum tobt der Kampf, aber du
+siehst einen Hoffnungsschimmer...
+
+Du hast den Hauptknoten der Angreifer durchbrochen, und
+jetzt hat der Rest von Königin Musurals Rudeljägern
+Schwierigkeiten, die vielen Bäche und Flüsse zu
+überqueren, die die Heide durchschneiden. Dort unten gibt
+es einen steinigen Abhang, auf den du stürzen kannst, um
+schnell durch die Bäume zu entkommen. Aber zuerst scheint
+die Königin der Jamba Wachen aufgestellt zu haben, die
+deinen möglichen Fluchtweg schützen...
+
+# Story 5
+
+## Kapitel 1: Die Bibliothek von Calamis
+
+In den Gewölben der Stadt der Könige.
+
+Der Rat ist in Aufruhr. "Aber der Verfluchte hat gesagt,
+dass es Tunnel in die alte Wolkenburg gibt. Tunnel, und das
+bedeutet, dass es noch mehr von ihnen gibt", argumentieren
+die Vadorianer verzweifelt. Vesh kontrolliert vielleicht
+einen Weg in die Wolkenburg, aber das bedeutet nicht, dass
+es hier unten, in Calamis' persönlichen Bibliotheken,
+keinen Hinweis darauf gibt, wo die anderen sein könnten. Du
+durchsuchst die Gänge voller Schriftrollen, ledergebundener
+Grimoires und Schiefertafeln, aber ohne Erfolg. Die einzige
+Information, die du schließlich findest, ist diese: Die
+Tafel von Zephyr: Die Geschichten und Wege der alten
+Vadoraner. Calamis besitzt sie nicht, aber vielleicht
+existiert sie noch im Turm des Astrographen. "Der alte
+Zauberer war fast so weise wie ich, für einen Fleischling",
+muss sogar Calamis zustimmen. "Aber es gibt Gerüchte, dass
+etwas Dunkles eingezogen ist. Wir werden es bekämpfen
+müssen, wenn wir dort ankommen."
+
+## Kapitel 2: Gestohlene Heiligkeit
+
+Im Turm des Astrographen...
+
+"Das ist vadorianisches Mauerwerk!" T'Lorra, die Gesegnete,
+erkennt es an den seltsamen, geriffelten Formen. "Und das
+ist zwergischer Stein", erkennt Thralir an einem anderen
+Stück. "Und das..." Calamis spürt einen seltsamen Zug zu
+den blau-grauen Fundamentplatten des Turms. Es sind
+Wegmarken der Gefallenen, geborgen und gestohlen von dem
+Ort, an dem die Gefallenen sie hinterlassen haben.
+
+"Das war also das Geheimnis der Macht des Astrographen.
+Gestohlene Heiligkeit", murmelt T'Lorra.
+
+Bei der Suche im Heiligtum des toten Zauberers werden
+Edelsteine, Münzen, seltsame versteinerte Skelette und
+schließlich die Tafel von Zephyr gefunden.
+
+"Schau!" T'Lorra zeigt auf eine Karte, die auf der 33.
+Schieferscherbe eingraviert ist, als ein Horn die Luft
+zerreißt und Waffen gegen die Holztür des Turms schlagen.
+Der Feind hat dich aufgespürt!
+
+## Kapitel 3: Älter als selbst
+
+Beim Astrographen-Turm erweist sich die
+33. Schiefer-"Seite" als noch
+beunruhigender.
+
+"Es gibt überall in den Ländern Tunnel", wundert sich
+T'Lorra. "Aber wir waren schon immer ein geflügeltes Volk.
+Das ergibt doch keinen Sinn." Die Gesegnete verstummt. Sie
+hat zwar Flügel, aber sie kann nicht mehr fliegen. Sie
+erinnert sich an den Wirbel der Federn und den Geruch von
+Blut, als ihre Diener versuchten, sie auf ihrer Flucht aus
+dem Bergfried zu schützen. Hoodrah und seine Legion
+feuerten immer wieder brennende schwarze Pfeile ab und
+brachten ihre treuesten Diener zu Fall, bevor sie
+schließlich ihr Flügelgelenk fanden.
+
+"Diese Tunnel sind älter als die, die die Verfluchten
+erwähnt haben", sagt Thralir. "Wir Deep-Delvers wissen von
+anderen Tunneln wie diesen unter der Welt. Wir dachten, die
+Gefallenen hätten sie gebaut."
+
+"Wo ist der nächste?" fragt Brutius.
+
+"Es ist in einer Mine namens The Diamond Halls. Ich kenne
+sie." Thralir studiert die Karte. "Aber dieser Teil der
+Hallen ist vor Jahrhunderten zusammengebrochen. Wir werden
+ihn wieder aufbauen müssen."
+
+## Kapitel 4: Bogrot
+
+In den Diamantenhallen, mit Mörtel und
+Steinstaub an deinen Händen...
+
+"Vieles von dem, was ich über die Gefallenen geglaubt habe,
+ist in letzter Zeit auf den Kopf gestellt worden", sinniert
+T'Lorra die Gesegnete im Tunnel. Sie ist nicht gut im
+Untergrund. "Sie sind nicht die Herren der Winde, sondern
+die Herrscher über Stein und Unterirdisches."
+
+"Nicht nur Meister der Winde und Herrscher des Steins",
+korrigiert Calamis, und alle Blicke richten sich auf ihn,
+weil sie sich fragen, ob jetzt der Moment gekommen ist, in
+dem er das erste und letzte Wort spricht, mit dem alles
+begann.
+
+"Narren!" Ein Scharren in der Dunkelheit vor uns, und eine
+zischende Stimme knurrt. Aus dem frisch gegrabenen Tunnel
+erscheinen glitzernde, wilde Augen. "Ich bin Bogrot
+Hoodrahson. Mein Vater hat mich hierher geschickt, um
+sicherzugehen, dass niemand auf die Idee kommt, Cloud Keep
+auf diesem Weg anzugreifen. Gut, dass du gekommen bist, um
+mir Gesellschaft zu leisten, was?" Bogrot Hoodrahson lacht
+grausam.
+
+## Heroische Herausforderung: Kollabieren!
+
+Ein gefährliches Knarren und das
+Geräusch von plötzlich in die Grube
+spritzendem Wasser...
+
+"Der Wächter heult!" Thralir, der Zwerg, wirkt geschockt
+und gekränkt, als das Wasser um dich herum zu fließen
+beginnt. Der Angriff von Bogrot und seinen trollischen
+Kämpfern scheint die Struktur des Bergwerks geschwächt zu
+haben, sodass die unterirdischen Flüsse die starken Mauern
+durchdringen konnten... "Wir brauchen guten Schieferstein
+und Lehmmörtel - sonst ist die ganze Mine für immer
+verloren!"
+
+## Legendäre Herausforderung: Was krabbelt denn da?
+
+Die Gefallenen Tunnel unter den
+Zwergenwerken der Diamantenhallen.
+
+Das Licht glitzert in der Dunkelheit und reflektiert den
+Schein der Fackeln in der Dachrinne. "Diamanten...", haucht
+der große Calamis, als würde er sich an einen alten Freund
+erinnern. "Dieser Ort war berühmt für sie", stimmt der
+Zwerg zu. Doch dann erlöschen einige der Lichter, die etwas
+weiter weg wieder aufflammen und in einem kränklichen
+Gelb-Rot leuchten. Dir wird klar, dass nicht alle Kristalle
+hier unten wertvoll sind und dass einige der Kreaturen von
+Vesh einen Weg hinein gefunden haben...
+
+# Story 6
+
+## Kapitel 1: Auch Steine haben Friedhöfe
+
+Die Falien-Tunnel, tief unter der Haut
+der Welt.
+
+Kein Lebewesen, keine Ratte, Spinne oder ein Lufthauch
+stört die Ruhe. "Selbst Steine haben ihre Friedhöfe",
+murmelt Thralir in seinen Bart. Von den Auferstandenen ist
+ein grummelndes Geräusch zu hören. Aber da vorne ist Licht
+- ein Schacht, der sich hoch in die Luft erstreckt.
+
+Du solltest auf Verbündete warten, aber die Gelegenheit ist
+zu groß. Lautlos kletterst du die vielen hundert Meter
+hinauf zu einem stillgelegten Brunnen an den Hängen des
+Wolkenbergfrieds. Du befindest dich außerhalb des
+Bergfrieds, und in der Luft über dem heiligen Haus, wo
+einst nur Vadoraner waren, wimmelt es von Makar.
+
+"Wir müssen sie ablenken", rät die Sakura.
+
+"Oder sie anlocken." Vyliria lächelt grimmig. "Wenn wir sie
+zum Telmarren-Hain locken können, können wir sie besiegen.
+Der Hain ist uralt und mächtig, und er wird uns helfen."
+
+## Kapitel 2: Licht und Dunkelheit
+
+Inmitten der Teiche und uralten Bäume
+des Telmarren-Hains.
+
+Der Hain ist einer der schönsten Orte in den zeitlosen
+Reichen, so heißt es zumindest. Sicherlich gibt es
+nirgendwo sonst so kristallklare Tümpel, so nahrhaftes
+Wasser und Bäume, deren Wurzeln mit der Erde selbst
+verwoben zu sein scheinen. Die Blätter an den Ästen
+scheinen zu singen und zu flüstern, und wenn du genau
+hinhörst, kannst du fast Worte in Elbisch erkennen: Gebete
+um Schutz, um Kraft und um die Wahrheit.
+
+"Wie können wir den Makar hierher locken?", diskutieren die
+Gruppenmitglieder.
+
+"Wenn meine Jahre im Kampf mir etwas gezeigt haben, dann ist
+es das", knurrt Brutius. "Wir schlagen sie so hart, dass sie
+aufstehen und auf uns aufmerksam werden. Wir erobern
+Ravenswood Town zurück und ziehen uns hierher zurück."
+
+## Kapitel 3: Kriecher
+
+In den zerstörten und verlassenen
+Straßen der unheimlichen Stadt
+Ravenswood.
+
+Du hast vielleicht gerade die Monster getötet, die hier
+lauern, aber das bedeutet nicht, dass Ravenswood Town sicher
+ist. Du hast das Gefühl, von den zerbrochenen Fenstern aus
+beobachtet zu werden, und am Rande deines Blickfeldes
+huschen Gestalten umher.
+
+"Mir gefällt das nicht", sagt ein Mitglied deiner Gruppe.
+
+Du stimmst mir zu; wir sollten diesen widerlichen Ort
+verlassen. Die Nachricht wurde gesendet, und der Feind wird
+jetzt nach dir suchen. Es ist an der Zeit, zum
+Telmarren-Hain zurückzukehren, wo du den Makar erschlagen
+und den Wolkenfried weit offen lassen kannst...
+
+"Hilfe!" Ein Schrei zerreißt die Nacht. Als du um die Ecke
+biegst, siehst du ein menschliches Mädchen, das von
+weiteren schleichenden Feinden als Geisel gehalten wird.
+Vielleicht ist es eine Falle, aber du hast keine andere
+Wahl.
+
+## Kapitel 4: Ichi
+
+Du hast die verfluchte Stadt Ravenswood
+endlich hinter dir gelassen, aber der
+Himmel ist voller Feuer...
+
+"Dieser verdammte Ort!" Ihr seid euch alle einig, dass
+Ravenswood Town viel mehr Aufmerksamkeit auf sich gezogen
+hat, als ihr erwartet hattet. Ihr habt zu lange gekämpft.
+Jetzt sieht es so aus, als ob entweder die Dunkelhand dort
+auf dich gewartet hat oder du einfach nur Pech hattest, denn
+alle Monster, Sklaven, Orksoldaten und Söldner sind auf dem
+Weg zu deinem Standort.
+
+"Wir werden es nie rechtzeitig zu den Telmarren schaffen."
+Dunkle Gestalten schwärmen aus dem Himmel und fallen wie
+Meteoriten, umgeben von Feuer und Wut. Die Makar sind hier,
+und sie werden von Hoodrahs persönlichem Ross angeführt:
+Ichi. Aber Brutius hat schon fast so verzweifelte
+Situationen erlebt wie diese. Ein wildes Lachen entströmt
+seinen vernarbten Lippen. Heute ist nicht der Tag, an dem du
+stirbst.
+
+## Heroische Herausforderung: Der Hain
+
+Während du vor Veshs Armeen herfliegst,
+scheint dir eine Amsel zu folgen.
+
+Was ist es? Die kleine Kreatur hüpft und schreit dich aus
+den Ästen der nächsten Bäume an. Trotz deines
+verzweifelten Rennens und der Kriegsbanden, die hinter dir
+her sind, weicht dieser Vogel nicht von deiner Seite und es
+scheint fast, als würde er eine Warnung rufen. Könnte es
+sein, dass er versucht, mit dir zu sprechen? "Die Amseln von
+Telmarren". Vyliria wirkt ehrfürchtig. "Sogar die Elfen
+haben ihre Sprache verloren, aber diese hier scheint zu uns
+zu rufen. Wir müssen ihm folgen."
+
+Sie führt dich zurück zum Telmarren-Hain, wo die heilige
+Stätte angegriffen wird...
+
+## Legendäre Herausforderung: Schreiende Bäume
+
+Die Luft ist schwer von Ruß, und es
+liegt ein Geräusch in der Luft, das man
+im Hain nie gehört hat. Das Seufzen der
+Blätter hat sich in heulende Schreie
+verwandelt.
+
+Was du für ein paar (wenn auch starke) Kreaturen von Vesh
+gehalten hast, scheint nur die Vorhut gewesen zu sein, denn
+am Rande des Hains tauchen weitere dunkle Gestalten auf, die
+Feuer und Gift mit sich bringen. Du kannst nicht zulassen,
+dass diese uralte und heilige Stätte stirbt - sie darf
+nicht fallen!
+
+# Story 7
+
+## Kapitel 1: Gibbet's Cross
+
+Der Himmel ist dunkel vom Rauch der
+heranrückenden Armeen von Vesh.
+
+Wie du die Schlacht überlebt hast und wie die Linie gegen
+die Monster und Kräfte, die dir entgegengeschleudert
+wurden, gehalten hat, weißt du nicht. Aber du bist hier und
+lebst. Hinter dir brennen die Überreste von Ravenswood
+Town, und vor dir steigt der Rauch der feindlichen Legionen
+auf.
+
+"Wir müssen zum Tunnel bei den Granithallen", lautet der
+einstimmige Beschluss. Entweder wir ziehen uns in die Stadt
+der Könige zurück oder wir gehen weiter, zurück zum
+Tunnel, der nach Cloud Keep führt. Was ist das für eine
+Entscheidung?
+
+"Der Rückweg ist versperrt", sagt die weitsichtige
+Elfenkönigin Vyliria. "Der Feind treibt uns in diesem Tal
+zusammen - direkt zum Gibbet's Cross."
+
+## Kapitel 2: Verbündete
+
+An der ruinösen Kreuzung steht ein
+grausiges Zeugnis aus noch dunkleren
+Zeiten - der Galgen, auf den Brutius'
+Vater früher Verräter schickte.
+
+"Wir müssen uns ausruhen", knurrt Sesharra aus ihrer Hocke,
+aber Brutius schüttelt den Kopf und starrt mit seinem einen
+guten Auge auf den Galgen. "Nicht hier. Nicht unter diesem
+üblen Schatten."
+
+Aus dem nahen Tal ertönt ein Horn, und Hufe nähern sich.
+Ist es schon die feindliche Kavallerie? Ohne ein Wort zu
+sagen, stehen alle auf und machen ihre Waffen bereit.
+
+"Ho, Freunde!" Es ist nicht der Feind - noch nicht - sondern
+eine Phalanx von Kavalleriebogenschützen des Hauses
+Greenacre, begleitet von den wenigen vadorianischen
+Herolden, die noch fliegen können. "Wir sind sofort
+gekommen, als wir Ravenswood brennen sahen. Kommt, wir
+werden den Feind bedrängen, um euch Zeit zu verschaffen,
+dorthin zu gelangen, wo ihr hin müsst."
+
+## Kapitel 3: Der Tunnel
+
+Du findest den Eingang zu einem alten
+Gefallenentunnel, der mit den
+Granithallen verbunden ist, aber aus dem
+Inneren kommt ein seltsames Geräusch.
+
+"Sie haben es geflutet!" flucht Thralir und tritt mit seinen
+Eisennagelstiefeln gegen das Wasser, das fast barthoch auf
+den Zwerg steigt.
+
+"Wir können waten. Das müssen wir auch." T'Lorra ist
+grimmig, aber ein fanatisches Licht brennt in ihren Augen.
+Mit einem Nicken stürzt ihr euch in den Schlamm, das Wasser
+ist bis auf eure Fackeln pechschwarz und eiskalt. Kaum habt
+ihr die Hälfte geschafft, zischt es, als das Wasser kocht
+und aufschäumt. Hoodrah hat es nicht nur geflutet, sondern
+anscheinend auch die neuesten Schöpfungen von Vesh in das
+Wasser entlassen.
+
+## Kapitel 4: Der Gefangene von Hoodrah
+
+Du hast den Tunnel erfolgreich
+durchquert und die Steppe von Cloud Keep
+erreicht.
+
+"Hier", hockt T'Lorra vor dem Steinsockel, der wie ein
+anklagender Finger aus dem Bergfried ragt. "Das war meine
+Plattform - sie führt direkt zum heiligsten Tempel der
+Vadoraner." Sie hält inne, bevor du einsteigst, und
+erinnert sich an all die Vadoraner, die ihr Leben verloren
+haben, um sie zu retten.
+
+Die Luft ist stinkend nach Trollgeruch und Rauch. Du hast
+Glück; viele von Hoodrahs Truppen sind in den Niederungen
+auf der Suche nach dir. Aber ein Schatten bewegt sich im
+Thronsaal. Es ist Ichi der Makar, der noch lebt. "Ich rieche
+Vogelfleisch", knurrt eine neue Stimme und aus den
+Beutestücken und Trümmern erhebt sich der stolze Hoodrah
+Kelraz. "Tapfer, aber nicht klug. Sieh, was mit dem letzten
+Helden passiert ist, der mir an die Gurgel wollte." Neben
+ihm steht ein Käfig, in dem eine unbekannte Gestalt in
+Lumpen sitzt. Aber du bist nicht zum Smalltalk hierher
+gekommen...
+
+## Das Ende
+
+T'Lorra die Gesegnete fällt im zerstörten inneren
+Heiligtum des Tempels der Herolde auf die Knie,
+überwältigt von Trauer, Freude und Wut. Die Wolkenburg ist
+nun frei von Hoodrahs Mächten, die sie erobert haben, aber
+es wird ein Leben lang dauern, bis sie wieder in ihrem alten
+Glanz erstrahlt.
+
+"Vyliria? Zu den Wällen - wir brauchen deine scharfen
+Augen, um uns vor einem Gegenangriff zu warnen", bittet
+Brutius, und erstaunlicherweise hört die Graue Königin auf
+ihn.
+
+"Vielleicht wirst du am Ende der Hochkönig sein, Mensch",
+murmelt Thralir, während er den Stein studiert. "Aber nicht
+hier, und nicht jetzt. Die Wolkenburg muss stark befestigt
+werden, wenn wir sie gegen die fliegenden Makar halten
+wollen."
+
+"Ich werde die Nachricht in die Stadt der Könige bringen."
+Sesharra steht auf. "Ich kann schnell und ungesehen reisen,
+allein." Die Katze wartet nicht auf seine Zustimmung, aber
+Brutus gibt sie trotzdem.
+
+Dennoch haben Veshs Legionen die Zeitlosen Reiche
+überflutet und strömen nun über den Fluss Mar in den
+Azure Rise. Sein Kriegshäuptling Hoodrah Kelraz mag zwar
+aus der Wolkenburg vertrieben worden sein, aber es scheint,
+als hätte der Dunkelhäuptling die Horden von allem, was er
+in seinen Laboratoriumsgefängnissen erdacht hat,
+entfesselt.
+
+Ein Rütteln der Gitterstäbe und du erinnerst dich an den
+Gefangenen, den Hoodrah in dem Eisenkäfig hielt. Noch ein
+Held, sagte der Kriegshäuptling der Trolle. Aber wer
+könnte das sein?
+
+Es gibt noch viel zu tun, aber der Kampf für den Rest der
+Welt wird hier beginnen...
+
+## Heroische Herausforderung: Verteidigt euch selbst!
+
+Der besiegte Schrei von Ichi dem Makar
+hallt immer noch durch die Hallen der
+befreiten Wolkenburg. Und er erweckt
+etwas...
+
+Ichi der Makar ist besiegt, aber seine letzten Rufe, als er
+den Verlust seines Meisters Hoodrah betrauerte, waren hoch
+und seltsam. Einen Moment lang herrscht Stille, bevor ein
+Makar, der sich in den unteren Hallen von Cloud Keep
+versteckt hatte, sich seinen Weg an die Oberfläche bahnt -
+und er hat seine Handlanger an seiner Seite. Sie alle sind
+auf Rache erpicht.
+
+## Legendäre Herausforderung: Der Krieg
+
+Deine Waffen sind schwer, als du in den
+Hallen von Cloud Keep zusammenbrichst.
+
+Du willst dich gerade zu deinem hart errungenen Sieg
+beglückwünschen, da wird der Himmel von den Hörnern der
+vadorianischen Herolde zerrissen - nur kommen sie nicht aus
+der Wolkenburg. Sie kommen von weit her, von den leuchtenden
+weißen Mauern am Horizont: der Stadt der Könige.
+
+"Bei den Gefallenen,..." Brutius flucht und schaut aus den
+hohen Fenstern, um zu sehen, dass dunkle Scharen von
+Trollen, Orks, Chaldakka, Menschen und mehr aufgetaucht
+sind. Irgendwie hat es Vesh geschafft, seine Armeen durch
+die Zeitlosen Reiche bis fast zu den Mauern der Stadt der
+Könige zu schicken. "Er versucht, den Wolkenberg von der
+Stadt der Könige abzuschneiden", knurrt Brutius. "Er wird
+uns aushungern, wenn wir die Belagerung nicht durchbrechen."
+
+# Scenario: Carry Our Prayers (Normal)
+
+## Trage unsere Gebete
+
+Jeden Morgen ertönt von den Dächern
+der Stadt der Könige ein schriller
+Gesang, wenn die Vadorianer den neuen
+Tag preisen (trotz der Versuche der
+verärgerten Auferstandenen, sie von den
+Dachziegeln zu fegen!).
+
+"Es sind die Dolemiten, die Stummen", ruft Calamis von einer
+der Zinnen der Stadt. Daneben steht T' Lorra, deren Flügel
+mit frischen Verbänden an ihre Seite gebunden ist. Die
+Vadora weiß, dass es unter den Auferstandenen zwei
+Fraktionen gibt: Die Wachsamen, zu denen Calamis gehört,
+sind die aktivsten, während die Stein-, Wurzel- und
+Knochen-Dolemiten die ewig Schweigenden sind. "Sie glauben,
+dass die Vadoraner den heiligen Stein nicht respektieren."
+
+"Respektlos!?" T'Lorra ist empört. "Wir verehren die
+Gefallenen, und dies ist die Stadt, die von ihnen erschaffen
+wurde. Unser Morgen- und Abendlied ist ein Lobgesang auf
+ihre Großartigkeit. Wir singen für ihre Rückkehr in die
+Welt. Wir singen für ihre Führung, wo auch immer sie
+herkommen. Jeder Tag ist ein Segen, der uns von den
+Gefallenen gegeben wurde, und die Winde tragen unsere Gebete
+zu ihnen."
+
+"Ist es das?" Calamis murmelt, seine glühenden Augen
+flackern kurz auf, aber der Eifer des Herolds lässt sich
+nicht dämpfen.
+
+"Ja. Das ist es. Wir Vadorianer glauben, dass die Gefallenen
+nicht nur die Auferstandenen erschaffen haben, sondern dass
+diese Götter alle unsere Rassen erschaffen haben, und wir
+Vadorianer waren die zweite! Wir werden niemals mit unseren
+Gebeten aufhören."
+
+"Vielleicht..." Calamis' Stimme knirscht. "Vielleicht wäre
+es einfacher, wenn die Vadoraner viele Orte zum Beten
+hätten. Ihre alten Heiligtümer...
+
+"Das Haus des Ostwindes, der Schrein der verborgenen
+Sonne,..." T'Lorra stimmt zu. "Das waren die Stätten der
+Gefallenen, aber sie wurden von den Vesh abgerissen."
+
+"Dann sollten wir ihren Ruhm wiederherstellen. Für die
+Vadorianer, für uns alle - und für den Frieden in der
+Stadt!" sagt Calamis.
+
+# Scenario: Desecrated (Normal)
+
+## Szenario: Geschändet
+
+Außerhalb der hohen und seltsamen
+Mauern des Astrographen-Turms heult eine
+steife Brise, aber die riesige
+monolithische Gestalt des Earthshakers
+bewegt sich nicht.
+
+"Schau!" Calamis krächzt aufgeregt, während er auf den
+Geröllhaufen deutet. Die anderen Helden haben ihn selten so
+wütend gesehen.
+
+"Das sieht aus wie ein Haufen verbranntes Mauerwerk", sagt
+Sesharra und schnuppert abfällig in die Luft.
+
+"Warte - das sind sie doch nicht, oder?" Thralir ist der
+Erste, der die verräterischen Adern aus silbernem Erz
+entdeckt, die sich durch ihre rußverschmierte Oberfläche
+ziehen.
+
+"Die dummen Kreaturen von Vesh haben sie heruntergeholt und
+ein Feuer angezündet, um ihnen zu schaden - aber ihr könnt
+den Gefallenen Fels nicht zerstören", knurrt Calamis'
+mächtige Stimme. Er bewegt sich zur Seite des nächsten
+Sockels und wischt ihn sanft ab, als wäre er ein Kind. "Die
+Gefallenen selbst haben sie hierher gebracht. Sie haben
+einen Zweck in dieser Welt", murmelt der Golem und sein
+Blick schweift in die Ferne. "Ich habe nur einen von ihnen
+gesehen, als er starb und sein Blut mich und die anderen
+Auferstandenen aufsteigen ließ, aber er war...
+wunderschön", sagt der Earthshaker leise. Hinter ihm
+beginnt T'Lorra, Loblieder in ihrer zwitschernden, singenden
+vadorianischen Sprache zu murmeln. Alle wollen wissen, was
+der Earthshaker gesehen hat, was er gesagt haben könnte.
+
+Calamis' Stimmung ändert sich plötzlich, wird dunkel. "Und
+sie waren auch noch schrecklich. Ich werde denjenigen jagen,
+der das getan hat, und ich werde ihn dafür bezahlen
+lassen."
+
+Schon wieder? denken die anderen Helden. Calamis geht jeden
+Tag hinaus, unaufhörlich und unermüdlich auf seinen
+steinernen Beinen, um die Abscheulichkeiten von Vesh zu
+jagen - als ob es seine persönliche Pflicht wäre.
+Vielleicht ist es das auch.
+
+# Scenario: Memory Stone (Normal)
+
+## Gedächtnisstein
+
+In einer der hohen Kammern der Stadt der
+Könige brennt eine Wachskerze tief in
+der Nacht und beleuchtet das Gesicht von
+Thralir Hillfeet.
+
+Der Zwergenkönig fühlt sich alt. Er hätte nie damit
+gerechnet, dass er jemals die wundersame Dunkelheit der
+Granithallen verlassen würde. Auf den Steintischen liegen
+mathematische Skizzen, Zeichnungen: riesige Rädchen, Räder
+und Grundrisse. "Es war wunderschön", sagt der einzige
+andere Bewohner des Raumes, ein jüngerer Zwerg aus
+Donnerbart: Munir Stonetoe.
+
+Thralir seufzt müde. "Ich würde mein ganzes Lebenswerk
+für eine Handvoll dieser Steine eintauschen..." Über die
+Zeichnungen verstreut liegen kleine Daumensteine in
+verschiedenen Farben - Pechschiefer, glitzernder Quarz,
+seltener Blaustein. Auf jedem ist ein Siegel eingraviert:
+der Name eines verlorenen Zwerges. Es ist ein zwergischer
+Brauch, dass nach dem Tod eines Menschen ein
+Gedenk-Daumenstein aus den Steinen seiner Heimathallen
+hergestellt und von seinen Verwandten getragen wird. "Ich
+habe die Gedenksteine meiner Familie nicht. Als die
+Chaldakka-Lanzen die Mauern der Granithallen durchbrachen
+und Feuer hineinschütteten, war ich unten in der Tiefe und
+arbeitete an einem neuen Flöz. Ich habe zuerst den Rauch
+gerochen und dann die Schreie gehört..." Munir ist still,
+während er zuhört. "Ich führte den Kampf in der Tiefe an.
+Wir räumten den Feind aus dem Weg, hielten die unteren
+Hallen gegen sie - aber ich hatte bereits meine Söhne,
+meine Töchter, meine Tochter-Söhne, meine Neffen und
+Nichten verloren... Zweihundertachtzig." Thralirs Stimme
+wackelt. "Und meine kostbare Frau Alfhild. Ich hatte keine
+Zeit, ihr Andenken in Stein zu meißeln."
+
+"Dann werden wir zurückgehen", sagt Munir inbrünstig. "Zu
+den Granithallen, nach Cogshead. Du sollst eine Expedition
+anführen, um die Gedenksteine all jener zwergischen Seelen
+zu sammeln, die an Vesh verloren gegangen sind, und dann
+können ihre Geister endlich zur Ruhe kommen."
+
+# Scenario: Children of Lesser Men (Hard)
+
+## Die Kinder der kleinen Leute
+
+Als es dunkel wird, ertönt ein Schrei
+vor den Stadttoren.
+
+Eine kleine Gruppe Überlebender, die in der Nähe der Stadt
+der Könige umherwandert, hat die örtlichen Helden um Hilfe
+gebeten. Sie haben schon lange von den legendären
+Fähigkeiten der Kriegerinnen und Krieger in der Stadt der
+Könige gehört und bitten um Hilfe bei der Lösung eines
+schrecklichen Problems. Ein Kind ihrer Reisegruppe wurde
+entführt und wird von einer schrecklichen Kreatur namens
+Ermabah im nahen Wald festgehalten. Sie haben die Helden
+gebeten, ihnen zu helfen, das Kind unversehrt
+zurückzubringen.
+
+Das Kind, das "entführt" wurde, ist in Wirklichkeit der
+Sprössling der ansässigen Idioten in der Gruppe der
+Überlebenden. Ohne elterliche Aufsicht ist es auf eigene
+Faust in den Wald gewandert. Ermabah, normalerweise eine
+freundliche und wohlwollende Kreatur, hat das Kind als sein
+eigenes aufgenommen und schützt es vor den wahren Gefahren
+der Welt. Ermabah mag auf den ersten Blick unscheinbar
+wirken, aber wenn ihm das Kind weggenommen wird, wird er
+wütend. Wenn du die Bestie weiter erzürnst, führt das nur
+zu Tod und Elend. Wenn du dich dafür entscheidest, kein
+unnötiges Blutvergießen gegen die edle Kreatur zu
+veranstalten, können die Helden ihre Aufgabe viel leichter
+bewältigen.
+
+# Scenario: Lonely Nights (Hard)
+
+## Einsame Nächte
+
+Eine der kleineren Hallen in der Stadt
+der Könige. Es ist Nacht und dieser
+Teil der Stadt ist menschenleer.
+
+Das Klappern von Krallen stört die Stille und eine dunkle
+Gestalt bewegt sich durch die lange Halle. Sie ist nicht
+groß, aber sie bewegt sich schnell und verstohlen und hält
+an den Öffnungen inne, die Fenster oder einfach nur
+Hohlräume im Stein sein könnten.
+
+"Du wirst hier keine Wachen finden, falls du dir deswegen
+Sorgen machst", ertönt eine Stimme aus der hinteren Ecke
+des Raumes, die wie eine Lawine klingt. Die Gestalt in der
+Robe zischt und springt zurück. Was sie für eine weitere
+Säule oder Statue gehalten hatte, öffnete glühend blaue
+Augen. Es ist der Earthshaker.
+
+"Sesharra, du solltest nicht alleine da rausgehen. Vesh hat
+überall Spione. Wenn du gefangen genommen wirst, ist das
+Volk von Sakura verloren."
+
+Die Sakura überlegt und schmeckt die Luft. "Ich muss",
+knurrt sie. "Du warst nicht am Draustein, als Hoodrah und
+seine Trolle uns angriffen. Der Wüstensand war versengt von
+den flammenden Netzen, die Hoodrah auf uns abfeuerte. Die
+Jungen rannten schreiend davon. Ich kämpfte, um meinen
+Stolz zu befreien, aber die Truppen des Trolls waren zu
+zahlreich. Ich weiß nicht, wie viele - wenn überhaupt -
+entkommen konnten. Ich irrte umher, hungrig und halb
+verrückt, bis du mich fandest und aufnahmst. Ich muss
+wissen, dass wenigstens ein anderer wie ich überlebt hat.
+Ich kann nicht der Einzige sein!"
+
+Der Earthshaker bewegt sich: ein Geräusch wie knirschendes
+Gestein. "Aber, jede Nacht? Sie werden dich irgendwann
+erwischen."
+
+"Ich muss das tun", zischt Sakura wieder frustriert.
+
+"Ich verstehe; vielleicht kann das uns allen helfen.
+Während du suchst, sammle etwas von dem gehärteten
+Magierholz, das in den nahe gelegenen Wäldern wachsen soll,
+und bring es zu uns, damit unsere Ingenieure es untersuchen
+können."
+
+# Scenario: Sworn (Hard)
+
+## Vereidigt
+
+In der Ratskammer der Stadt der Könige,
+wo ein Streit zwischen Lord Matthias
+Durance und Prinz Brutius ausgebrochen
+ist.
+
+"Und was meint der Fürst, was wir als Nächstes tun
+sollen?" fragt Lord Matthias und wirft sich seinen reichen
+Mantel um die breiten Schultern. Es ist kein Geheimnis, dass
+das Haus Durance und die Brutius-Fraktion schon lange
+zerstritten sind. Wären nicht die dunklen Zeiten, in denen
+sie jetzt leben, hätten die menschlichen Reiche vielleicht
+sogar einen Bürgerkrieg begonnen.
+
+Der Gebrochene Prinz erhebt sich mühsam auf seine Füße.
+"Wir befestigen uns. Wir stärken unsere Position. Dann
+schlagen wir zurück." Brutius spricht kaum mehr als ein
+Flüstern, aber seine Stimme trägt. Er hat ein Leben lang
+in den Kriegen der Welt gekämpft und spricht mit einer
+ruhigen Autorität.
+
+"Hier, hier!" "Nein!" Die menschlichen Fraktionen sind sich
+uneinig, als Rufe durch den Saal schallen.
+
+"Wir brauchen einen starken Anführer, der den Feind in
+Angst und Schrecken versetzt!" Matthias schimpft, aber seine
+Wut wird durch das Knacken von Stein auf Stein unterbrochen,
+als der Earthshaker die Versammlung zur Ordnung ruft, bevor
+er Brutius das Wort erteilt.
+
+"Und wer soll das sein, Matthias? Du?", sagt der
+Menschenprinz. "Und was ist mit unserem Volk da draußen,
+dessen Dörfer verbrannt und dessen Ernten gestohlen wurden?
+Ich habe geschworen, dass ich die Krone erst annehme, wenn
+unser ganzes Volk befreit und Vesh endgültig besiegt ist.
+Ich werde keine Ressourcen und Zeit für Krönungen
+verschwenden, während mein Volk stirbt. Ich will ihnen eine
+Zukunft geben, kein Denkmal."
+
+"Und wo sollen wir anfangen, Herr Brutius?", ruft Thralir
+und unterstützt seinen Freund.
+
+# Scenario: The Honour of Thieves (Hard)
+
+## Die Ehre der Diebe
+
+In den dunklen Kammern und steinernen
+Hallen der Stadt wird eine Leiche eilig
+in einen ruhigen, stillen Raum getragen.
+
+"Der Mann sollte in den Heilungshallen sein", sagt Vyliria
+zweifelnd. "Die Schwestern von Aranwyn werden sich um seine
+Wunden kümmern." Die elfische Königin steht an dem kleinen
+Altar am Ende des Raumes und zündet den Weihrauch an, der
+Ruhe bringen soll. Sie wurde zusammen mit den anderen Helden
+der Freien Völker auf Brutius' Bitte hin hierher gerufen.
+Der verwundete Mann sieht schlaksig und dünn aus, seine
+grüne und braune Kleidung ist selbstgenäht und einfach.
+
+"Was ist er, ein Holzfäller?" fragt Thralir der Zwerg.
+
+"Das ist Poul Jekker, und er ist kein ehrlicher Holzfäller,
+und ich werde ihn auch nicht gefährden, indem ich ihn in
+die übrigen Hallen bringe", sagt Brutius von seinem Schemel
+neben dem Bett des Mannes. "Er ist ein Hauptmann der
+Blackfeathers, und ich schulde ihm mein Leben." Brutius'
+Stimme ist nicht lauter als ein Flüstern, aber er hat die
+Aufmerksamkeit der anderen auf sich gezogen. "Er führte
+meine Leute aus Squall's End, als die Hand von Vesh kam, und
+nutzte ihre Schmuggelrouten und Tunnel, um sie in Sicherheit
+zu bringen. Ich bat ihn, weit zu reisen und Informationen
+darüber zu liefern, was Vesh in den Cluwash-Tiefen treibt,
+und so ist er zu uns zurückgekehrt...
+
+Poul hustet schwach, eine Hand umklammert die des
+Menschenkönigs. "Es gibt eine Überläuferin. Aber sie ist
+im Gasthaus der verlorenen Hoffnung und auf dem Weg zu den
+Hyzicki-Karawanen. Ich wollte sie von dort aus zur Marred
+Hand führen, wo ich ein überdachtes Boot bereithalte, um
+die Reise hierher zu vollenden. Aber ich habe versagt..."
+
+"Du hast nicht versagt, mein Freund. Wir werden nicht
+versagen", sagt Brutius grimmig.
+
+# Scenario: A New Home (Very hard)
+
+## Ein neues Zuhause
+
+In den langen Alleen der Stadt der
+Könige versammeln sich die Verlorenen
+und die Hoffnungsvollen, die sich vor
+ihrem neuen Zuhause in Acht nehmen.
+
+Ein Kinderschrei durchdringt die ohnehin schon laute Luft in
+der Stadt. Die Wächter der Auferstandenen sind an solche
+Aktivitäten nicht gewöhnt; ihre steinigen und
+wurzelartigen Blatt-, Korallen- und Knochenohren kennen noch
+nicht die verschiedenen Geräusche, die ein Mensch machen
+kann. Ihre Gesichter drehen sich langsam zu den
+aufsteigenden Schreien, unsicher, ob dies eine Bedrohung
+ist.
+
+"Ganz ruhig, Junge." Prinz Brutius der Gebrochene ist viel
+schneller. Er erreicht das schreiende Kind durch die sich
+sammelnde Menge von Flüchtlingen. Es ist ein Menschenjunge,
+kaum ein Jugendlicher, der verängstigt und allein aussieht.
+"Hast du dich verlaufen? Wo sind deine Eltern?", flüstert
+der Prinz und geht in die Hocke.
+
+"Tot." Das Kind schnieft. Es hält seine abgewetzten und
+aufgeschürften Hände hoch. "Ich bin umgefallen."
+
+"Finn! Da bist du ja, Finn!", sagt eine aufgeregte ältere
+Frau mit grauem Haar und stechend blauen Augen. "Oh,
+Mylord." Als sie den gebrochenen Prinzen sieht, macht sie
+einen verlegenen Knicks. "Ich bin seine Großmutter. Seine
+Eltern waren bei den Verteidigern unserer Stadt..."
+
+"Es tut mir leid", knirscht Brutius mit den Zähnen. So viel
+Zerstörung. Alle menschlichen Siedlungen wurden in einer
+Welle der Gewalt ausgelöscht. Die Stadt der Könige ist die
+einzige Stadt, die noch übrig ist. "Hier", flüstert der
+Prinz und zieht die schweren Stulpen aus seinen eigenen
+vernarbten Händen, um sie dem Jungen anzulegen. "Du wirst
+hier ein Zuhause haben, Finn", sagt Brutius, aber sein Herz
+ist unruhig. Es strömen jetzt so viele Flüchtlinge herbei,
+dass sie mehr von allem brauchen: Bettzeug, Verbandszeug,
+Essen, Unterkünfte...
+
+# Scenario: Hidden in Plain Sigh (Very hard)
+
+## Versteckt in der Ebene seufzen
+
+Vor den Toren der Stadt der Könige.
+
+Die Kreatur war schlau. Sie wusste, dass sie sich verstecken
+musste, bis sie die einfache Verzauberung, die sie verborgen
+hielt, aufheben konnte. Trotzdem schienen die Menschen und
+Zwerge, die langsam um sie herumstapften, zu erkennen, dass
+die Kreatur etwas anderes war. Der Rest der Flüchtlinge
+weigerte sich, mit der großen, in schwere Verbände und
+Felle gehüllten Person zu sprechen. Sie machten das
+Zeichen, ihm einen bösen Blick zuzuwerfen, wenn es sich
+nachts ihren Lagerfeuern näherte. Aber die Kreatur konnte
+warten. Vesh hatte es so programmiert.
+
+Als die Sonne aufging und die neueste Welle müder und
+halbverhungerter Menschen in die Stadt gelassen wurde, ging
+die Kreatur unter dem wachsamen Blick des mächtigen
+Auferstandenen neben den anderen her. Hat einer von ihnen
+plötzlich aufgeschaut? Spürte es den üblen Geruch von
+Vesh in der Nähe? Egal, die Kreatur war jetzt in den Toren
+und es war Zeit zu handeln...
+
+Die Kreatur ließ die Verzauberung fallen, legte ihr
+menschenähnliches Aussehen wie ein Leichentuch ab und zog
+ihre Waffen, um sich auf den Türmechanismus zu stürzen,
+während Schreie und Warnglocken ertönten. Vesh hatte
+Verbündete vorausgeschickt, die in den Felsen nahe der
+Mauern auf der Lauer lagen. Die Kreatur musste nur noch das
+Fallgitter offen halten, während ihre Verbündeten
+vorstürmten und die Mauern von allen Seiten angriffen...
+
+# Scenario: Rumours (Very hard)
+
+## Gerüchte
+
+Das Gasthaus ist überfüllt und dunkel,
+die Luft ist rauchig und duftet nach
+gekochtem Fleisch. In Umhänge und Leder
+gehüllte Gestalten entspannen sich nach
+Wochen auf der Straße.
+
+"Weißt du, was ich gehört habe?", sagt eine der Gestalten
+zu ihrem Begleiter. Der Sprecher ist ein schlaksiger Mensch
+mit einem struppigen Bart und Narben. "Dieser Vesh war mal
+ein Mensch."
+
+"Sprich diesen Namen hier nicht aus!", murmelt die
+Gefährtin des Kriegers und nimmt einen weiteren Schluck aus
+ihrem Bierbecher. Sie ist kleiner als ihr Gefährte und
+trägt einen Umhang, der die geflickte Rüstung darunter
+nicht verbergen kann. "Als ob die Welt nicht schon genug
+Pech hätte."
+
+"Ich habe dich nie für abergläubisch gehalten, Freund",
+lacht der erste. "Wir sind doch aus Ravenswood rausgekommen,
+oder? Und zwar mit den Einnahmen aus dem Geldhaus!"
+
+"Nur knapp", sagt seine Begleiterin niedergeschlagen. "Und
+nichts an den Streitkräften der Darkhand erscheint mir
+menschlich."
+
+"Nun, das zeigt, was du weißt. Ich habe einen Söldner
+getroffen, der einen Kerl getroffen hat, weißt du - er
+sagte, dass die Darkhand Menschen anstellt. Die Hand von
+Vesh, nennt er sie. Schreckliche, gemeine Söhne von... Wie
+auch immer, der Freund eines Freundes sagte, dass Vesh zu
+Zeiten von König Augustus ein Zauberergeneral war. Er wurde
+verrückt. Wurde zum Schurken. Er durchsuchte das Land nach
+altem Fallen-Mist - und dann machte er Jagd auf den Ersten.
+Den Earthshaker selbst!"
+
+"Hsss!" Ein Zischen ertönt vom Tisch hinter den betrunkenen
+Freibeuterinnen und Freibeuter, als eine Gestalt aufspringt.
+Es ist Sesharra, ganz in Schwarz gekleidet. "Dein Ton
+gefällt mir nicht, Mensch, und du hast eindeutig Zeit.
+Warum schließt du dich nicht dem Widerstand gegen Vesh an
+der Herald's Gate an?"
+
+# Scenario: The Creations of Vesh (Very hard)
+
+## Die Kreationen von Vesh
+
+Ein in Verbände gehüllter menschlicher
+Späher liegt in den Kapellen der
+Heilung und wird von den elbischen
+Flüchtlingen gepflegt.
+
+"Es begann nur als Gerücht, oben auf dem Weg. Fußabdrücke
+im Schlamm, deren Form du noch nie gesehen hast. Zu klein,
+um ein Riese zu sein, kein Troll oder Grimnir." Der
+Kundschafter hustet schwach, und seine Verbände sind
+blutbespritzt. "Aber sie hatten Klauen und waren lang. Auch
+andere Zeichen... Vielleicht ein Schwanz?"
+
+Der Späher war auf dem Weg zurück in die Stadt gefunden
+worden, zu Fuß und dem Tod nahe. Calamis hatte am Morgen
+vier von ihnen ausgesandt, und jetzt war nur noch einer
+übrig. "Also schlugen wir unser Lager unter dem alten Holz
+auf und warteten ab, was es war. In der ersten Nacht hörten
+wir ein Geräusch wie ein Reiher durch den Nebel, und am
+Morgen waren unsere Pferde verschwunden. Kein Geräusch...
+einfach verschwunden. Am nächsten Tag sagten die Bauern,
+dass etwas Großes auf ihrer Scheune gelandet sei, und am
+nächsten Morgen war es weg. Alles, was sie fanden, waren
+verbrannte Krallenspuren im Schiefer."
+
+"Es ist eine weitere von Veshs üblen Schöpfungen", murmelt
+der Earthshaker. "Als er mich gefangen nahm und in die
+Cluwash Depths brachte, sah ich dort Reihen von Zellen. Aber
+die Dunkelhand sperrte nicht nur Menschen ein. Es kamen und
+gingen Kleriker, Gelehrte und die Geräusche von Maschinen.
+Wenn die Gefangenen überlebten, kamen sie ... verändert
+wieder heraus. Wer weiß, was Vesh inzwischen gezüchtet
+oder verdreht hat? Wir sollten diese Bestie jagen und ihrem
+Terror ein Ende setzen."
+
+# Scenario: The Scorched (Very hard)
+
+## Die Verbrannten
+
+Die kleineren Säle des inneren
+Heiligtums der Ratskammer der Stadt, wo
+die beunruhigendsten Nachrichten
+besprochen werden.
+
+Wenn sie es nicht besser wüssten, wären die Späher
+sicher, dass die Kreatur ihnen einen Streich spielt. "Gerade
+als wir uns der feindlichen Versorgungsroute näherten,
+tauchte dieses Ding auf", spuckt der Elfen-Waldläufer.
+"Sein Körper war wie geschmolzenes Gestein, das ständig zu
+Platten aus Eisen und Stein abkühlte, bevor es in einer
+Hitze zerbrach, die alles um sich herum in Brand setzte."
+Die Elfe erschaudert. "Wir konnten nichts dagegen tun, also
+rannten wir los und suchten den schnellsten Weg zurück in
+die Stadt - aber der Weg war durch Schlackenhalden aus
+abkühlendem Gestein versperrt und zwang uns in die
+Cripplewood Canyons. Wir hatten uns drei Tage lang verirrt,
+bevor wir den Weg wieder herausfanden. Ich schwöre dir -
+das Monster spielt ein Spiel mit uns."
+
+"Wie kann das sein?", brüllt der Earthshaker und seine
+Augen funkeln vor Empörung. "Es ist nur Fels und Metall,
+beseelt von der Darkhand. Er ist kein Auferstandener, er hat
+keinen Funken des göttlichen Gefallenen in sich..."
+
+Aber zumindest Brutus und den anderen Helden ist klar, dass
+der Verbrannte die schlimmste Schöpfung ist, die je aus den
+Gruben von Vesh gekommen ist. Als abscheuliche Verhöhnung
+der Auferstandenen kann der Verbrannte überall hingehen,
+alles tun und alles töten, was sich ihm in den Weg stellt.
+
+"Aber wir müssen in der Lage sein, ihn aufzuspüren und
+seinem Vormarsch zu entgehen", rät der Menschenprinz. "Wir
+sollten dafür sorgen, dass wir an diesen Orten Späher
+haben, damit er uns nicht wieder austrickst..."
+

@@ -17,6 +17,19 @@ impl App {
     pub(crate) fn view_list(&self, ctx: &Context<Self>) -> Html {
         html! {
             <>
+            if let Some(setup_id) = self.state.setup_id {
+                <h4>
+                    {setup_id.get().name}
+                </h4>
+                <ul class="nav nav-tabs justify-content-center">
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page">{"Map"}</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" onclick={ ctx.link().callback(move |_| Msg::Page(Page::Story)) }>{"Story"}</a>
+                    </li>
+                </ul>
+            }
             <table class="table table-borderless" style="text-align: left">
                 <thead>
                     <tr>

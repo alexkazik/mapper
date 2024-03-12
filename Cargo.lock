@@ -139,6 +139,18 @@ dependencies = [
 ]
 
 [[package]]
+name = "enum-tools"
+version = "0.5.3"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "78ac604c61f93ba674aaecdfb4aa50f2793f5f9eaf9ae66f55729b0e9dffffe3"
+dependencies = [
+ "proc-macro-error",
+ "proc-macro2",
+ "quote",
+ "syn 2.0.52",
+]
+
+[[package]]
 name = "equivalent"
 version = "1.0.1"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -689,6 +701,7 @@ dependencies = [
  "anyhow",
  "build",
  "databake",
+ "enum-tools",
  "gloo 0.10.0",
  "serde",
  "yew",

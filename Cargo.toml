@@ -6,6 +6,7 @@ edition = "2021"
 license = "MIT"
 
 [dependencies]
+enum-tools = "0.5"
 gloo = { version = "0.10" }
 serde = { version = "1.0.160", features = ["serde_derive"] }
 yew = { version = "0.21", features = ["csr"] }
