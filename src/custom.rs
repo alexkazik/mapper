@@ -1,7 +1,9 @@
 use crate::game::Tile;
 use crate::state::Page;
 use crate::{App, Msg};
-use yew::{classes, html, Context, Html};
+use yew::{html, Context, Html};
+use yew_bootstrap::component::Button;
+use yew_bootstrap::util::Color;
 
 impl App {
     pub(crate) fn view_custom(&self, ctx: &Context<Self>) -> Html {
@@ -14,9 +16,9 @@ impl App {
         html! {
             <ul class="list-group" style="text-align: left">
                 <li class="list-group-item">
-                    <button class="btn btn-primary" onclick={ ctx.link().callback(move |_| Msg::Page(Page::Setup)) }>
+                    <Button style={Color::Primary} onclick={ ctx.link().callback(move |_| Msg::Page(Page::Setup)) }>
                         { "Back" }
-                    </button>
+                    </Button>
                 </li>
                 <li class="list-group-item">
                     { "Please select the used tile sets:" }
@@ -32,9 +34,9 @@ impl App {
                     { "Tiles on the table:" }{ " " }{ num_tiles }{ " " }{ hint }
                 </li>
                 <li class="list-group-item">
-                    <button class="btn btn-primary" onclick={ ctx.link().callback(move |_| Msg::CustomSetup) } disabled={num_tiles == 0}>
+                    <Button style={Color::Primary} onclick={ ctx.link().callback(move |_| Msg::CustomSetup) } disabled={num_tiles == 0}>
                         { "Setup" }
-                    </button>
+                    </Button>
                 </li>
             </ul>
         }
@@ -49,16 +51,11 @@ impl App {
     }
 
     fn view_custom_column(&self, ctx: &Context<Self>, tile_set: usize) -> Html {
-        let btn_class = if self.state.custom_tile_sets.contains(&tile_set) {
-            "btn-success"
-        } else {
-            "btn-outline-success"
-        };
         html! {
             <td>
-                <button class={classes!("btn", btn_class)} onclick={ ctx.link().callback(move |_| Msg::CustomToggleTileSet(tile_set)) }>
+                <Button style={Color::Primary} outline={!self.state.custom_tile_sets.contains(&tile_set)} onclick={ ctx.link().callback(move |_| Msg::CustomToggleTileSet(tile_set)) }>
                     { tile_set }
-                </button>
+                </Button>
             </td>
         }
     }

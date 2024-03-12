@@ -2,6 +2,8 @@ use crate::game::{Setup, SetupId};
 use crate::state::Page;
 use crate::{App, Msg};
 use yew::{html, Context, Html};
+use yew_bootstrap::component::Button;
+use yew_bootstrap::util::Color;
 
 impl App {
     pub(crate) fn view_setup(&self, ctx: &Context<Self>) -> Html {
@@ -9,16 +11,16 @@ impl App {
             <ul class="list-group" style="text-align: left">
                 if !self.state.list_tiles.is_empty() {
                     <li class="list-group-item">
-                        <button class="btn btn-primary" onclick={ ctx.link().callback(move |_| Msg::Page(Page::List)) }>
+                        <Button style={Color::Primary} onclick={ ctx.link().callback(move |_| Msg::Page(Page::List)) }>
                             { "Back" }
-                        </button>
+                        </Button>
                     </li>
                 }
                 { for Setup::all().map(|(i,s)| Self::view_setup_line(ctx, i, s)) }
                 <li class="list-group-item">
-                    <button class="btn btn-primary" onclick={ ctx.link().callback(move |_| Msg::Page(Page::Custom)) }>
+                    <Button style={Color::Primary} onclick={ ctx.link().callback(move |_| Msg::Page(Page::Custom)) }>
                         { "Custom" }
-                    </button>
+                    </Button>
                 </li>
             </ul>
         }
@@ -29,9 +31,9 @@ impl App {
             <li class="list-group-item">
                 { setup.name }
                 { " " }
-                <button class="btn btn-success" onclick={ ctx.link().callback(move |_| Msg::Setup(id)) }>
+                <Button style={Color::Success} onclick={ ctx.link().callback(move |_| Msg::Setup(id)) }>
                     { "Setup" }
-                </button>
+                </Button>
             </li>
         }
     }

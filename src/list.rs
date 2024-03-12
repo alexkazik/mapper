@@ -2,7 +2,10 @@ use crate::game::TileId;
 use crate::state::Page;
 use crate::{App, Msg};
 use serde::{Deserialize, Serialize};
-use yew::{classes, html, Context, Html};
+use yew::{html, Context, Html};
+use yew_bootstrap::component::Button;
+use yew_bootstrap::icons::BI;
+use yew_bootstrap::util::Color;
 
 #[derive(Eq, PartialEq, Serialize, Deserialize)]
 pub(crate) enum Sort {
@@ -19,12 +22,12 @@ impl App {
                     <tr>
                         <th></th>
                         if self.state.list_sort == Sort::Name {
-                            <th>{ "Name" }<i class="bi bi-sort-alpha-down"></i></th>
+                            <th>{ "Name" }{BI::SORT_ALPHA_DOWN}</th>
                         } else {
                             <th onclick={ctx.link().callback(|_| Msg::ListSetSort(Sort::Name))}>{ "Name" }</th>
                         }
                         if self.state.list_sort == Sort::Type {
-                            <th>{ "Type" }<i class="bi bi-sort-alpha-down"></i></th>
+                            <th>{ "Type" }{BI::SORT_ALPHA_DOWN}</th>
                         } else {
                             <th onclick={ctx.link().callback(|_| Msg::ListSetSort(Sort::Type))}>{ "Type" }</th>
                         }
@@ -41,7 +44,7 @@ impl App {
                 { for self.state.list_tiles.iter().filter(|(_,d)|self.state.list_show_discovered || !d).map(|(t,d)|self.view_list_line(ctx, *t, *d)) }
                 </tbody>
             </table>
-            <button class="btn btn-primary" onclick={ ctx.link().callback(move |_| Msg::Page(Page::Setup)) }>{ "New Adventure" }</button>
+            <Button style={Color::Primary} onclick={ ctx.link().callback(move |_| Msg::Page(Page::Setup)) }>{ "New Adventure" }</Button>
             <div style="display: flex">
                 { "Settings: " }
                 <div class="form-check form-switch"><input
@@ -67,10 +70,10 @@ impl App {
 
     fn view_list_line(&self, ctx: &Context<Self>, id: TileId, del: bool) -> Html {
         let tile = id.get();
-        let (btn_icon, btn_class) = if del {
-            ("bi-arrow-counterclockwise", "btn-primary")
+        let (btn_icon, btn_style) = if del {
+            (BI::ARROW_COUNTERCLOCKWISE, Color::Primary)
         } else {
-            ("bi-compass", "btn-success")
+            (BI::COMPASS, Color::Success)
         };
         let name = tile.name(self.state.list_the);
         html! {
@@ -79,9 +82,9 @@ impl App {
                 <td>{ name.0 }{ name.1 }</td>
                 <td>{ tile.tile_type }</td>
                 <td align="center">
-                    <button class={ classes!("btn", btn_class) } onclick={ ctx.link().callback(move |_| Msg::ListToggleDiscovered(id)) }>
-                        <i class={ classes!("bi", btn_icon) }></i>
-                    </button>
+                    <Button style={btn_style} onclick={ ctx.link().callback(move |_| Msg::ListToggleDiscovered(id)) }>
+                        {btn_icon}
+                    </Button>
                 </td>
             </tr>
         }
