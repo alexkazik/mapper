@@ -1,6 +1,6 @@
 [package]
 name = "mapper"
-version = "0.7.0"
+version = "0.7.1"
 authors = ["Alex Kazik <alex@kazik.de>"]
 edition = "2021"
 license = "MIT"
