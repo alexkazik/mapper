@@ -1290,9 +1290,9 @@ dependencies = [
 
 [[package]]
 name = "yew-bootstrap"
-version = "0.10.1"
+version = "0.11.1"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "bac325721bc4732b10bac9595c85ef3d431e236286ae29039f97862f4e3b4778"
+checksum = "7258714b457f04893b3746695395205b9efd45c2138c9899dc46d79ae0dcd761"
 dependencies = [
  "anyhow",
  "convert_case",

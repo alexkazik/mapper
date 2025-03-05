@@ -10,7 +10,7 @@ enum-tools = "0.5"
 gloo-storage = { version = "0.3" }
 serde = { version = "1.0.160", features = ["serde_derive"] }
 yew = { version = "0.21", features = ["csr"] }
-yew-bootstrap = { version = "0.10", default-features = false }
+yew-bootstrap = { version = "0.11", default-features = false }
 
 [build-dependencies]
 build = { path = "build" }
@@ -22,3 +22,6 @@ members = [
     ".",
     "build",
 ]
+
+[[bin]]
+name = "copy-and-link"

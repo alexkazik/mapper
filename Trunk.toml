@@ -9,11 +9,6 @@ addresses = ["127.0.0.1"]
 port = 52783
 
 [[hooks]]
-stage = "pre_build"
+stage = "post_build"
 command = "cargo"
-command_arguments = ["run", "--bin", "version"]
-
-[[hooks]]
-stage = "build"
-command = "cargo"
-command_arguments = ["run", "--bin", "copy-bootstrap-icons"]
+command_arguments = ["run", "--bin", "copy-and-link"]
