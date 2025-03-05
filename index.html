@@ -1,1 +1,54 @@
-<!doctype html><html lang=en><meta charset=utf-8><meta content="width=device-width,initial-scale=1" name=viewport><title>Unofficial The City of Kings Mapper</title><base href=/mapper/><link href=bootstrap-icons-v1.10.5/bootstrap-icons.css rel=stylesheet><link href=/mapper/bootstrap.min-c6c6e17b5bb8f55f.css integrity=sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW-ALEwIH rel=stylesheet><script type=module>import a,*as b from"/mapper/mapper-d626eb95a6848502.js";a(`/mapper/mapper-d626eb95a6848502_bg.wasm`);window.wasmBindings=b</script><link href=/mapper/styles-3b80a68c4efcde5b.css integrity=sha384-7uNGHGgPtT2e6ptiYMprqq7leiO0GZjmXXtxKuJBTakdcuwhOkB1VbE8jthdvS12 rel=stylesheet><link as=fetch crossorigin href=/mapper/mapper-d626eb95a6848502_bg.wasm integrity=sha384-RH0QI4sUm3QIZerrkI12khBLPcFviE_O-excg7BdWR4oL6TrHTMb4U_tPdHn4beH rel=preload type=application/wasm><link crossorigin href=/mapper/mapper-d626eb95a6848502.js integrity=sha384-hSNpoE4q_rU3bgXahdNf6gA7hFD4VBuF8eGLUD8ytNTi_vKLLIr8W6OU0N2E2CKH rel=modulepreload></head><body><div class=container style=text-align:center><h1>Unofficial The City of Kings Mapper</h1><br><h2>Loading...</h2><br><span class=timed style=display:none>If you see this for too long please (force) reload.</span><br><small class=timed style=display:none>(Force Reload: <i class="bi bi-apple"></i>: <i class="bi bi-shift"></i><i class="bi bi-command"></i>R, <i class="bi bi-windows"></i>: Ctrl+F5, <i class="bi bi-browser-safari"></i>: <i class="bi bi-option"></i><i class="bi bi-command"></i>R)</small><br><hr><h5>Written by Alex.</h5><p>Version: 0.7.2 <br> <a href=https://github.com/alexkazik/mapper target=_blank>Source</a></p></div><script>setTimeout(()=>{document.querySelectorAll(`.timed`).forEach((a=>{a.style.display=`block`}))},15000)</script><script integrity=sha384-I7E8VVD_ismYTF4hNIPjVp_Zjvgyol6VFvRkX_vR-Vc4jQkC-hVqc2pM8ODewa9r src=/mapper/popper.min-b6d9b71e2c0dff02.js></script><script integrity=sha384-0pUGZvbkm6XF6gxjEnlmuGrJXVbNuzT9qBBavbLwCsOGabYfZo0T0to5eqruptLy src=/mapper/bootstrap.min-ca87d44b56c5e44f.js></script></body></html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <title>Unofficial The City of Kings Mapper</title>
+    <base href="/mapper/" />
+    <link rel="stylesheet" href="/mapper/bootstrap-icons-v1.11.3/bootstrap-icons.css"/>
+    <link rel="stylesheet" href="/mapper/bootstrap.min-c6c6e17b5bb8f55f.css" integrity="sha384&#x2D;QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW&#x2B;ALEwIH"/>
+    
+    
+    
+<script type="module">
+import init, * as bindings from '/mapper/mapper-8030391aa5ab528f.js';
+const wasm = await init({ module_or_path: '/mapper/mapper-8030391aa5ab528f_bg.wasm' });
+
+
+window.wasmBindings = bindings;
+
+
+dispatchEvent(new CustomEvent("TrunkApplicationStarted", {detail: {wasm}}));
+
+</script>
+    <link rel="stylesheet" href="/mapper/styles-60924cc1211b379b.css" integrity="sha384&#x2D;OPmPejkll6zAx&#x2B;qzqS5OphUiFBXJo&#x2B;rv6qVjdIYx4qhkmUu5GCtahGkoolyDBXlU"/>
+    <!--    <link data-trunk rel="icon" href="static/favicon.png" type="image/png"/>-->
+<link rel="modulepreload" href="/mapper/mapper-8030391aa5ab528f.js" crossorigin="anonymous" integrity="sha384-NsyNsLW9s6xp5/Ca//RRP6QEVrBdx+gxDyZlm4GPcSVS7qW6tc5jh/n5kgS6WEv2"><link rel="preload" href="/mapper/mapper-8030391aa5ab528f_bg.wasm" crossorigin="anonymous" integrity="sha384-TvDzfRCe/ETSRjd5yoJxkZ2f3ChsllWKFBRFiRmnbTWu/k3Jbly87EVFQ2NQKi9f" as="fetch" type="application/wasm"></head>
+<body>
+<div class="container" style="text-align: center">
+    <h1>Unofficial The City of Kings Mapper</h1><br/>
+    <h2>Loading...</h2><br/>
+    <span class="timed" style="display: none">If you see this for too long please (force) reload.</span><br/>
+    <small class="timed" style="display: none">(Force Reload: <i class="bi bi-apple"></i>: <i class="bi bi-shift"></i><i
+            class="bi bi-command"></i>R, <i class="bi bi-windows"></i>: Ctrl+F5, <i class="bi bi-browser-safari"></i>:
+        <i class="bi bi-option"></i><i class="bi bi-command"></i>R)</small><br/>
+    <hr/>
+    <h5>Written by Alex.</h5>
+    <p>
+        Version:
+        0.7.3
+        <br/>
+        <a href="https://github.com/alexkazik/mapper" target="_blank">Source</a>
+    </p>
+</div>
+<script>
+    setTimeout(() => {
+        document.querySelectorAll('.timed').forEach(function (element) {
+            element.style.display = 'block';
+        });
+    }, 15000)
+</script>
+<script src="/mapper/popper.min-b6d9b71e2c0dff02.js" integrity="sha384&#x2D;I7E8VVD&#x2F;ismYTF4hNIPjVp&#x2F;Zjvgyol6VFvRkX&#x2F;vR&#x2B;Vc4jQkC&#x2B;hVqc2pM8ODewa9r"></script>
+<script src="/mapper/bootstrap.min-ca87d44b56c5e44f.js" integrity="sha384&#x2D;0pUGZvbkm6XF6gxjEnlmuGrJXVbNuzT9qBBavbLwCsOGabYfZo0T0to5eqruptLy"></script>
+</body>
+</html>
