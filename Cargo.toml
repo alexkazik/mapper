@@ -7,7 +7,7 @@ license = "MIT"
 
 [dependencies]
 enum-tools = "0.5"
-gloo = { version = "0.10" }
+gloo-storage = { version = "0.3" }
 serde = { version = "1.0.160", features = ["serde_derive"] }
 yew = { version = "0.21", features = ["csr"] }
 yew-bootstrap = { version = "0.10", default-features = false }
